@@ -9,37 +9,37 @@
       "questions": [
         {
           "id": "EN12_READ_Q01",
-          "question": "Question 1",
+          "question": "(1) ___________ an eco-friendly lifestyle is crucial for preserving our planet.",
           "choices": ["Living", "To live", "Lived", "Live"],
           "answer": 0
         },
         {
           "id": "EN12_READ_Q02",
-          "question": "Question 2",
+          "question": "Adopting (2) ___________ like recycling can significantly reduce waste.",
           "choices": ["simple habits daily", "daily simple habits", "habits simple daily", "simple daily habits"],
           "answer": 3
         },
         {
           "id": "EN12_READ_Q03",
-          "question": "Question 3",
+          "question": "Many people feel (3) ___________ with traditional methods of waste disposal...",
           "choices": ["boring", "bored", "boringly", "boredom"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q04",
-          "question": "Question 4",
+          "question": "To achieve a greener future, everyone must contribute their efforts (4) ______ environmental protection.",
           "choices": ["with", "on", "of", "to"],
           "answer": 3
         },
         {
           "id": "EN12_READ_Q05",
-          "question": "Question 5",
+          "question": "Sorting household waste, (5) ___________ separating recyclables, minimizes the impact on landfills.",
           "choices": ["was involving", "involving", "which involve", "involved"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q06",
-          "question": "Question 6",
+          "question": "Together, let's (6) ___________ a change for a cleaner, healthier Earth!",
           "choices": ["make", "have", "book", "do"],
           "answer": 0
         }
@@ -52,37 +52,37 @@
       "questions": [
         {
           "id": "EN12_READ_Q07",
-          "question": "Question 7",
+          "question": "...which are items that are (7) ___________ to have minimal impact on the planet.",
           "choices": ["designed", "designing", "designs", "design"],
           "answer": 0
         },
         {
           "id": "EN12_READ_Q08",
-          "question": "Question 8",
+          "question": "...renewable resources, (8) ___________ helping to conserve energy and reduce pollution.",
           "choices": ["since", "therefore", "despite", "unless"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q09",
-          "question": "Question 9",
+          "question": "...highly sustainable and (9) ___________ waste in landfills.",
           "choices": ["increase", "contribute", "reduce", "avoid"],
           "answer": 2
         },
         {
           "id": "EN12_READ_Q10",
-          "question": "Question 10",
+          "question": "...encourages businesses to adopt (10) sustainable practices.",
           "choices": ["alternative", "alternatively", "alter", "altering"],
           "answer": 0
         },
         {
           "id": "EN12_READ_Q11",
-          "question": "Question 11",
+          "question": "Consumers should (11) ___________ research before making purchases...",
           "choices": ["conduct", "introduce", "respond", "evaluate"],
           "answer": 0
         },
         {
           "id": "EN12_READ_Q12",
-          "question": "Question 12",
+          "question": "This thoughtful approach to buying (12) ___________ not only the environment but also promotes healthier living.",
           "choices": ["supports", "advances", "deteriorates", "informs"],
           "answer": 0
         }
@@ -91,35 +91,35 @@
     {
       "id": "EN12_MCQ_13",
       "type": "mcq",
-      "question": "Question 13",
+      "question": "Mark the letter A, B, C, or D to indicate the best arrangement of utterances.\na. Emily: That’s true. The litter from lanterns and balloons is very hard to decompose.\nb. Jack: Yes, I tried releasing sky lanterns during a festival. It looked beautiful! But I heard it’s bad for the environment.\nc. Emily: Have you ever released sky lanterns or balloons, Jack?",
       "choices": ["a – b – c", "c – a – b", "b – c – a", "c – b – a"],
       "answer": 3
     },
     {
       "id": "EN12_MCQ_14",
       "type": "mcq",
-      "question": "Question 14",
+      "question": "Mark the letter A, B, C, or D to indicate the best arrangement of utterances.\na. Nam: Hey guys, look at this notice! Our school is holding a Green Classroom Competition. The greenest classroom will win an ecotour!\nb. Nam: It says here that classrooms will be judged on the following: raising environmental awareness, reducing our carbon footprint, and using resources efficiently.\nc. Mark: I guess we should start by cleaning up our classroom more frequently and having more plants in it.\nd. Mark: How exciting! But how will the classrooms be judged?",
       "choices": ["c – b – d – a", "a – d – b – c", "a – c – b – d", "b – a – d – c"],
       "answer": 1
     },
     {
       "id": "EN12_MCQ_15",
       "type": "mcq",
-      "question": "Question 15",
+      "question": "Mark the letter A, B, C, or D to indicate the best arrangement of sentences to make a meaningful letter.\nDear Alex,\na. During the festive season, almost every home and shop displays a Christmas tree, but both real and fake trees have environmental impacts.\nb. I hope this letter finds you well. I wanted to share some thoughts about Christmas trees because I recently read something interesting.\nc. Knowing this, I think we should consider more sustainable options for the holidays.\nd. Real trees release harmful gases like methane and carbon dioxide when they decompose in landfills, while fake trees can be reused for many years, yet their production releases pollutants into the air and they take hundreds of years to decompose.\ne. What kind of Christmas tree do you use? Let me know your thoughts!\nBest wishes,\nEmma",
       "choices": ["d – c – a – b – e", "d – e – c – a – b", "b – a – d – c – e", "d – c – e – a – b"],
       "answer": 2
     },
     {
       "id": "EN12_MCQ_16",
       "type": "mcq",
-      "question": "Question 16",
+      "question": "Mark the letter A, B, C, or D to indicate the best arrangement of sentences.\na. Reusing or “upcycling” furniture in this way can protect the environment – we don’t have to cut down trees to get wood for new tables and chairs.\nb. For example, some people recycle old furniture as a hobby. They buy old furniture at yard sales or stores that sell used items.\nc. If you damage a piece of furniture, don’t put it in the trash: Repair it or turn it into something new.\nd. Then they paint it or change it in some way to create something new.\ne. One way to help the environment is to reuse old furniture instead of throwing it out.",
       "choices": ["e – c – b – d – a", "c – a – b – d – e", "e – c – b – d – a", "a – b – c – d – e"],
       "answer": 0
     },
     {
       "id": "EN12_MCQ_17",
       "type": "mcq",
-      "question": "Question 17",
+      "question": "Mark the letter A, B, C, or D to indicate the best arrangement of sentences.\na. However, failing to live sustainably may lead to severe consequences, including resource depletion and irreversible environmental damage.\nb. By adopting small changes like using reusable bags and recycling, anyone can contribute to a greener planet.\nc. For example, switching to renewable energy sources like solar panels not only reduces your carbon footprint but also saves money in the long run.\nd. Green living involves making conscious choices to protect the environment, such as reducing waste, conserving energy, and using sustainable materials.\ne. If more people adopt these practices, we can slow down climate change and protect natural ecosystems.",
       "choices": ["d – c – e – b – a", "d – e – c – a – b", "b – a – d – c – e", "d – c – a – e – b"],
       "answer": 0
     },
@@ -130,7 +130,7 @@
       "questions": [
         {
           "id": "EN12_READ_Q18",
-          "question": "Question 18",
+          "question": "Green living, which focuses on reducing environmental impact, (18) ______. ",
           "choices": [
             "adopting green living can inspire individuals to adopt better habits, reducing their environmental impact",
             "not only helps create a healthier planet for future generations but also promotes sustainable practices",
@@ -141,7 +141,7 @@
         },
         {
           "id": "EN12_READ_Q19",
-          "question": "Question 19",
+          "question": "Simple changes, like using reusable water bottles or recycling household waste, (19) ______. ",
           "choices": [
             "are small yet powerful actions that anyone can take",
             "have the potential to reduce waste in urban and rural areas",
@@ -152,7 +152,7 @@
         },
         {
           "id": "EN12_READ_Q20",
-          "question": "Question 20",
+          "question": "Using renewable energy sources, like solar power, further promotes sustainability and decreases reliance on fossil fuels. (20) ______. ",
           "choices": [
             "This method has proven effective in significantly reducing global emissions and improving air quality",
             "It can help create cleaner air, reduce pollution, and build more resilient communities",
@@ -163,7 +163,7 @@
         },
         {
           "id": "EN12_READ_Q21",
-          "question": "Question 21",
+          "question": "By living sustainably, (21) ______. ",
           "choices": [
             "individuals encourage others to reduce waste in daily life",
             "families and communities work together to save energy and water",
@@ -174,7 +174,7 @@
         },
         {
           "id": "EN12_READ_Q22",
-          "question": "Question 22",
+          "question": "By sharing their efforts, individuals create a ripple effect (22) ______. ",
           "choices": [
             "of which communities are inspired to adopt greener habits and share ideas",
             "encouraging others to find innovative ways to conserve resources",
@@ -191,44 +191,50 @@
       "passage": "For the past decades, the importance of various ecosystems has become widely understood. Therefore, humans have carried out various methods to protect the natural world, including making the switch to green energy sources.\nSolar energy is harnessed through solar panels and converted into usable electricity. This remarkably efficient energy source generates few harmful emissions, making it a potent tool in reducing our carbon footprint. Furthermore, solar panels are ideally suited for small-scale installations, such as residential homes, as they demand minimal maintenance costs and have a long lifespan. However, the effectiveness of solar power is determined by weather conditions, which makes it less practical in areas where sunny weather is infrequent.\nWind power involves the transformation of wind energy into electricity through the use of large turbines. Wind power produces little greenhouse gases, but it is less suitable for private use due to the consistent maintenance requirements of turbines. Nevertheless, wind farms can be deployed on a large scale and are capable of generating electricity continuously. As a result, there could be increased investments in wind power that could offer a stable energy supply to major cities.\nThe combined forces of wind and solar power play a substantial role in promoting an eco-friendly environment by reducing our reliance on fossil fuels, reducing pollution and slowing down the progression of climate change. Moreover, the utilisation of renewable energy sources stimulates investment in sustainable development by creating new career opportunities within the green energy sector.\nToday, the installation and infrastructure costs are the main obstacles to the transition to green energy. However, they offer undeniable benefits that far outweigh their drawbacks, which can help us ensure a more sustainable future.",
       "questions": [
         {
-          "id": "EN12_READ_Q24",
-          "question": "Question 24: Which of the following benefits is NOT mentioned as solar and wind energy?",
+          "id": "EN12_READ_Q23",
+          "question": "Which of the following benefits is NOT mentioned as solar and wind energy?",
           "choices": ["Limit the production of harmful emissions", "Limit dependence on fossil fuels", "Limit investment in sustainable development", "Slow down the process of climate change"],
           "answer": 2
         },
         {
+          "id": "EN12_READ_Q24",
+          "question": "Which of the following best paraphrases the sentence: \"However, the effectiveness of solar power is determined by weather conditions, which makes it less practical in areas where sunny weather is infrequent\"?",
+          "choices": ["Solar power is practical in regions with sunny weather all year round", "Solar energy is reliable regardless of weather conditions", "Solar panels are unsuitable for areas with consistent sunny weather", "Weather conditions limit the effectiveness of solar energy in some areas"],
+          "answer": 3
+        },
+        {
           "id": "EN12_READ_Q25",
-          "question": "Question 25: The word “harnessed” in paragraph 2 is closest in meaning to",
+          "question": "The word “harnessed” in paragraph 2 is closest in meaning to",
           "choices": ["damaged", "captured", "wasted", "affordable"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q26",
-          "question": "Question 26: The word “stable” in paragraph 3 is opposite in meaning to",
+          "question": "The word “stable” in paragraph 3 is opposite in meaning to",
           "choices": ["smooth", "consistent", "effective", "intermittent"],
           "answer": 3
         },
         {
           "id": "EN12_READ_Q27",
-          "question": "Question 27: The word “they” in paragraph 5 refers to",
+          "question": "The word “they” in paragraph 5 refers to",
           "choices": ["benefits", "costs", "obstacles", "energy sources"],
           "answer": 3
         },
         {
           "id": "EN12_READ_Q28",
-          "question": "Question 28: Which of the following is NOT true according to the text?",
+          "question": "Which of the following is NOT true according to the text?",
           "choices": ["Green energy sources will be the key to human sustainable future", "Solar power creates zero greenhouse emissions, so it’s considered completely eco-friendly", "Using green energy sources can attract more investments into the sector of energy", "We might not have to rely on fossil fuels if renewable energy is widely supported"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q29",
-          "question": "Question 29: In which paragraph does the writer mention the role of renewable energy in creating job opportunities?",
+          "question": "In which paragraph does the writer mention the role of renewable energy in creating job opportunities?",
           "choices": ["Paragraph 2", "Paragraph 3", "Paragraph 4", "Paragraph 5"],
           "answer": 2
         },
         {
           "id": "EN12_READ_Q30",
-          "question": "Question 30: In which paragraph does the writer explain the challenges of adopting green energy?",
+          "question": "In which paragraph does the writer explain the challenges of adopting green energy?",
           "choices": ["Paragraph 1", "Paragraph 2", "Paragraph 4", "Paragraph 5"],
           "answer": 3
         }
@@ -241,31 +247,31 @@
       "questions": [
         {
           "id": "EN12_READ_Q31",
-          "question": "Question 31: Where in paragraph 1 does the following sentence best fit? \"Green living practices are gaining popularity as people become more aware of environmental issues.\"",
+          "question": "Where in paragraph 1 does the following sentence best fit? \"Green living practices are gaining popularity as people become more aware of environmental issues.\"",
           "choices": ["[I]", "[II]", "[III]", "[IV]"],
           "answer": 0
         },
         {
           "id": "EN12_READ_Q32",
-          "question": "Question 32: The phrase \"carbon footprint\" in paragraph 3 could be best replaced by ________",
+          "question": "The phrase \"carbon footprint\" in paragraph 3 could be best replaced by ________",
           "choices": ["environmental awareness", "carbon emissions", "personal waste", "air quality"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q33",
-          "question": "Question 33: The word \"their\" in paragraph 3 refers to ________",
+          "question": "The word \"their\" in paragraph 3 refers to ________",
           "choices": ["individuals", "LED light bulbs", "utility bills", "carbon emissions"],
           "answer": 0
         },
         {
           "id": "EN12_READ_Q34",
-          "question": "Question 34: According to paragraph 2, which of the following is NOT a way to reduce waste?",
+          "question": "According to paragraph 2, which of the following is NOT a way to reduce waste?",
           "choices": ["Using compost bins", "Recycling plastic", "Adopting single-use items", "Using reusable shopping bags"],
           "answer": 2
         },
         {
           "id": "EN12_READ_Q35",
-          "question": "Question 35: Which of the following best summarizes paragraph 3?",
+          "question": "Which of the following best summarizes paragraph 3?",
           "choices": [
             "Energy conservation is crucial for green living, reducing carbon emissions, air pollution, and improving energy efficiency",
             "Energy conservation is vital for green living, helping to reduce carbon emissions and mitigate climate change",
@@ -276,19 +282,19 @@
         },
         {
           "id": "EN12_READ_Q36",
-          "question": "Question 36: The word \"mitigating\" in paragraph 3 is OPPOSITE in meaning to ________",
+          "question": "The word \"mitigating\" in paragraph 3 is OPPOSITE in meaning to ________",
           "choices": ["worsening", "reducing", "increasing", "ignoring"],
           "answer": 0
         },
         {
           "id": "EN12_READ_Q37",
-          "question": "Question 37: Which of the following is TRUE according to the passage?",
+          "question": "Which of the following is TRUE according to the passage?",
           "choices": ["Single-use plastics are preferred for green living practices", "Supporting local businesses can be a part of sustainable consumption", "Recycling increases the amount of waste in landfills", "Green living does not impact the carbon footprint"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q38",
-          "question": "Question 38: Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "question": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
           "choices": [
             "When consumers buy products thoughtfully, they can encourage industries to adopt environmentally friendly practices and increase the need for more sustainable options",
             "Consumers can make eco-friendly choices by buying products that support industries focused on reducing waste and pollution",
@@ -299,13 +305,13 @@
         },
         {
           "id": "EN12_READ_Q39",
-          "question": "Question 39: Which of the following can be inferred from the passage?",
+          "question": "Which of the following can be inferred from the passage?",
           "choices": ["Green living practices are only effective if implemented on a global scale", "Recycling and composting are the most important aspects of green living", "Individuals can have a positive impact on the environment by making small lifestyle changes", "Green living is primarily focused on reducing the use of plastic products"],
           "answer": 2
         },
         {
           "id": "EN12_READ_Q40",
-          "question": "Question 40: Which of the following best summarizes the passage?",
+          "question": "Which of the following best summarizes the passage?",
           "choices": [
             "Green living promotes reducing waste, conserving energy, and supporting local businesses to create a more sustainable environment",
             "Green living focuses on reducing energy consumption and using reusable items, with little regard for the products we consume",
@@ -323,37 +329,37 @@
       "questions": [
         {
           "id": "EN12_READ_Q01B",
-          "question": "Question 1",
+          "question": "Are you ready to reshape urban (1) ___________ and create better living spaces?",
           "choices": ["views", "outlook", "sights", "landscapes"],
           "answer": 3
         },
         {
           "id": "EN12_READ_Q02B",
-          "question": "Question 2",
+          "question": "(2) ___________ urban infrastructure to enhance connectivity and accessibility.",
           "choices": ["Improve", "Improving", "To improving", "Improved"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q03B",
-          "question": "Question 3",
+          "question": "Helping communities adapt (3) ___________ urban challenges by providing tailored solutions.",
           "choices": ["with", "of", "to", "about"],
           "answer": 2
         },
         {
           "id": "EN12_READ_Q04B",
-          "question": "Question 4",
+          "question": "...addressing the needs of (4) ___________ cities.",
           "choices": ["grown", "growing", "growth", "grow"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q05B",
-          "question": "Question 5",
+          "question": "...smart technologies (5) ___________ cities keep up with rapid urbanisation and thrive in the 21st century.",
           "choices": ["helps", "helped", "which helped", "helping"],
           "answer": 3
         },
         {
           "id": "EN12_READ_Q06B",
-          "question": "Question 6",
+          "question": "...build a world-class (6) ___________ and transform cities into hubs of opportunity and innovation.",
           "choices": ["urban transport system", "transport urban system", "system urban transport", "system transport urban"],
           "answer": 0
         }
@@ -366,31 +372,31 @@
       "questions": [
         {
           "id": "EN12_READ_Q07B",
-          "question": "Question 7",
+          "question": "Urbanisation is (7) ___________ our world.",
           "choices": ["pausing", "stabilizing", "expanding", "reshaping"],
           "answer": 3
         },
         {
           "id": "EN12_READ_Q08B",
-          "question": "Question 8",
+          "question": "...while (8) ___________ face overcrowding and infrastructure shortages.",
           "choices": ["others", "the others", "anothers", "other"],
           "answer": 0
         },
         {
           "id": "EN12_READ_Q09B",
-          "question": "Question 9",
+          "question": "...are seeing costs (9) ___________, making life more expensive.",
           "choices": ["take down", "result in", "go up", "stay strong"],
           "answer": 2
         },
         {
           "id": "EN12_READ_Q11B",
-          "question": "Question 11",
+          "question": "However, (11) ___________ poor management, it may worsen (12) ___________ and environmental issues.",
           "choices": ["irrespective of", "in view of", "as long as", "even though"],
           "answer": 3
         },
         {
           "id": "EN12_READ_Q12B",
-          "question": "Question 12",
+          "question": "...it may worsen (12) ___________ and environmental issues.",
           "choices": ["fairness", "suffering", "prosperity", "inequality"],
           "answer": 3
         }
@@ -399,35 +405,35 @@
     {
       "id": "EN12_MCQ_13B",
       "type": "mcq",
-      "question": "Question 13",
+      "question": "Mark the letter A, B, C, or D to indicate the correct arrangement of the utterances.\na. Alicia: Have you noticed more people working from home? The future of work in cities is changing.\nb. Alicia: True, but cities will need better infrastructure like co-working spaces and reliable internet for remote workers.\nc. Ben: Yes, with tech improving, hybrid work could reduce traffic and crowding in cities.",
       "choices": ["c-a-b", "c-b-a", "a-c-b", "a-c-b"],
       "answer": 2
     },
     {
       "id": "EN12_MCQ_14B",
       "type": "mcq",
-      "question": "Question 14",
+      "question": "Mark the letter A, B, C, or D to indicate the correct arrangement of the utterances.\na. Tom: I agree. Providing more affordable housing options alongside green spaces and good transport links would make a big difference.\nb. Tom: Maybe the government could offer subsidies for low-income families or create more mixed-use developments.\nc. Sarah: The rising cost of housing in the city is a real problem. How can we make it more affordable?\nd. Sarah: That could help, but we also need better planning to avoid overcrowding and ensure quality living conditions.",
       "choices": ["c-d-a-b", "c-b-d-a", "d-c-b-a", "d-b-c-a"],
       "answer": 0
     },
     {
       "id": "EN12_MCQ_15B",
       "type": "mcq",
-      "question": "Question 15",
+      "question": "Mark the letter A, B, C, or D to indicate the best arrangement of sentences to make a meaningful letter.\nHi Jack,\na. Thank you for sending that article on city growth; it gave me a lot to consider.\nb. The demand for housing in urban areas is rising rapidly, and the prices are becoming unaffordable for many people.\nc. I’ve been thinking a lot about the impact of urbanisation on local economies.\nd. I think it would be a good idea to host an event in our community to discuss sustainable development. What are your thoughts on this?\ne. It’s encouraging to see the progress in urban development, but we still have many challenges to address.\nWrite back soon.\nBest,\nNam",
       "choices": ["a-e-c-b-d", "a-b-c-e-d", "a-e-b-c-d", "a-c-b-e-d"],
       "answer": 3
     },
     {
       "id": "EN12_MCQ_16B",
       "type": "mcq",
-      "question": "Question 16",
+      "question": "Mark the letter A, B, C, or D to indicate the best arrangement of sentences.\na. As cities expand, the demand for housing, jobs, and services increases, attracting individuals seeking improved living standards.\nb. However, the rapid growth of cities also brings challenges like overcrowding and resource depletion, requiring effective planning to ensure sustainable development.\nc. In addition to economic factors, many migrants are drawn to cities for better access to education, healthcare, and technology.\nd. This movement has resulted in increased cultural diversity in urban areas.\ne. The growth of cities has caused a significant shift in migration patterns, with more people moving from rural areas to urban centres in search of better opportunities.",
       "choices": ["e-c-d-b-a", "e-a-c-d-b", "e-a-b-c-d", "e-d-b-a-c"],
       "answer": 1
     },
     {
       "id": "EN12_MCQ_17B",
       "type": "mcq",
-      "question": "Question 17",
+      "question": "Mark the letter A, B, C, or D to indicate the best arrangement of sentences.\na. As cities grow, the implementation of smart technologies, such as traffic management systems, has made it easier for people to get around and avoid getting stuck in traffic jams, a problem that was once inevitable.\nb. In addition to enhancing urban mobility, these innovations have brought about a significant reduction in pollution, which would have otherwise resulted in worsened environmental conditions.\nc. In modern cities, technology plays an increasingly crucial role in improving the quality of life for residents.\nd. With these advancements, urban areas are not only becoming hubs of technological progress but also places that attract people from all over the world, eager to settle in and experience a higher standard of living.\ne. This shift towards more sustainable living is translated into cleaner air, better public health, and more efficient use of resources, making cities more livable.",
       "choices": ["c-e-a-b-d", "c-a-b-d-e", "c-a-b-e-d", "c-e-b-a-d"],
       "answer": 2
     },
@@ -438,7 +444,7 @@
       "questions": [
         {
           "id": "EN12_READ_Q18B",
-          "question": "Question 18",
+          "question": "Urbanization, the process of population moving from rural areas to cities, (18) ___________.",
           "choices": [
             "on which people's lifestyles have changed significantly",
             "are leading to significant shifts in people's lifestyles",
@@ -449,7 +455,7 @@
         },
         {
           "id": "EN12_READ_Q19B",
-          "question": "Question 19",
+          "question": "It creates challenges for residents, (19) ___________.",
           "choices": [
             "rapidly increasing the number of housing units available for rent",
             "making it difficult for them to find affordable places to live",
@@ -460,7 +466,7 @@
         },
         {
           "id": "EN12_READ_Q20B",
-          "question": "Question 20",
+          "question": "I visited a neighborhood (20) ___________.",
           "choices": [
             "which had several high-rise buildings but lacked basic infrastructure",
             "offering a mix of residential and commercial spaces with modern amenities",
@@ -471,7 +477,7 @@
         },
         {
           "id": "EN12_READ_Q21B",
-          "question": "Question 21",
+          "question": "...a problem which governments are trying to solve by improving access to education and healthcare. (21) ___________.",
           "choices": [
             "Another issue is the decline in mental health but this has been significantly improved",
             "A further challenge is the development of public transport systems and affordable housing",
@@ -482,7 +488,7 @@
         },
         {
           "id": "EN12_READ_Q22B",
-          "question": "Question 22",
+          "question": "Encouraging investment in infrastructure, (22) ___________.",
           "choices": [
             "which can drive economic growth and improve social well-being",
             "the government is contributing to the deterioration of living",
@@ -500,49 +506,49 @@
       "questions": [
         {
           "id": "EN12_READ_Q23",
-          "question": "Question 23: Which of the following is NOT a benefit of urban farming mentioned in the passage?",
+          "question": "Which of the following is NOT a benefit of urban farming mentioned in the passage?",
           "choices": ["Job creation", "Reduced greenhouse gas emissions", "Community engagement", "Increased access to fresh food"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q24B",
-          "question": "Question 24: The word \"feasible\" in paragraph 3 is CLOSEST in meaning to ___________",
+          "question": "The word \"feasible\" in paragraph 3 is CLOSEST in meaning to ___________",
           "choices": ["affordable", "impossible", "achievable", "expensive"],
           "answer": 2
         },
         {
           "id": "EN12_READ_Q25B",
-          "question": "Question 25: The word \"scarce\" in paragraph 3 is OPPOSITE in meaning to ___________",
+          "question": "The word \"scarce\" in paragraph 3 is OPPOSITE in meaning to ___________",
           "choices": ["limited", "abundant", "necessary", "rare"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q26C",
-          "question": "Question 26: The word \"They\" in paragraph 1 refers to ___________",
+          "question": "The word \"They\" in paragraph 1 refers to ___________",
           "choices": ["urban farmers", "local food supplies", "urban farms", "cities"],
           "answer": 2
         },
         {
           "id": "EN12_READ_Q27B",
-          "question": "Question 27: Which of the following best paraphrases the underlined sentence in paragraph 2?",
+          "question": "Which of the following best paraphrases the underlined sentence in paragraph 2?",
           "choices": ["People can learn valuable agricultural techniques", "Urban farming leads to conservation efforts", "Urban farming reduces employment opportunities", "Urban farms create opportunities for local engagement"],
           "answer": 3
         },
         {
           "id": "EN12_READ_Q28B",
-          "question": "Question 28: According to the passage, which of the following is TRUE?",
+          "question": "According to the passage, which of the following is TRUE?",
           "choices": ["Urban farms are only suitable for rural areas", "Finding land for urban farms is easy and inexpensive", "Pollutants in city soil can affect food safety", "Urban farms cannot contribute to food security"],
           "answer": 2
         },
         {
           "id": "EN12_READ_Q29B",
-          "question": "Question 29: In which paragraph does the writer discuss social advantages of urban farming?",
+          "question": "In which paragraph does the writer discuss social advantages of urban farming?",
           "choices": ["Paragraph 1", "Paragraph 2", "Paragraph 3", "Paragraph 4"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q30B",
-          "question": "Question 30: In which paragraph does the writer discuss the future role of urban farming?",
+          "question": "In which paragraph does the writer discuss the future role of urban farming?",
           "choices": ["Paragraph 1", "Paragraph 2", "Paragraph 3", "Paragraph 4"],
           "answer": 3
         }
@@ -555,37 +561,37 @@
       "questions": [
         {
           "id": "EN12_READ_Q31B",
-          "question": "Question 31: Where in the passage does the following sentence best fit? \"With the expansion of cities, businesses and industries thrive, leading to higher employment rates.\"",
+          "question": "Where in the passage does the following sentence best fit? \"With the expansion of cities, businesses and industries thrive, leading to higher employment rates.\"",
           "choices": ["[I]", "[II]", "[III]", "[IV]"],
           "answer": 1
         },
         {
           "id": "EN12_READ_Q32B",
-          "question": "Question 32: The word \"it\" in paragraph 1 refers to ___________",
+          "question": "The word \"it\" in paragraph 1 refers to ___________",
           "choices": ["infrastructure", "phenomenon", "economic growth", "urbanization"],
           "answer": 3
         },
         {
           "id": "EN12_READ_Q33B",
-          "question": "Question 33: The word \"innovation\" in paragraph 2 is opposite in meaning to ___________",
+          "question": "The word \"innovation\" in paragraph 2 is opposite in meaning to ___________",
           "choices": ["breakthrough", "reversion", "revolution", "antiquity"],
           "answer": 3
         },
         {
           "id": "EN12_READ_Q34B",
-          "question": "Question 34: The phrase \"places a strain on\" in paragraph 3 mostly means ___________",
+          "question": "The phrase \"places a strain on\" in paragraph 3 mostly means ___________",
           "choices": ["puts pressure on", "caves under pressure", "takes the pressure off", "turns up the pressure"],
           "answer": 0
         },
         {
           "id": "EN12_READ_Q35B",
-          "question": "Question 35: According to the passage, which of the following is NOT a benefit of urbanisation?",
+          "question": "According to the passage, which of the following is NOT a benefit of urbanisation?",
           "choices": ["Higher employment rates", "Improved access to technology", "Better healthcare and education facilities", "Revolutionize the quality of life"],
           "answer": 3
         },
         {
           "id": "EN12_READ_Q36B",
-          "question": "Question 36: Which of the following best summarises paragraph 3?",
+          "question": "Which of the following best summarises paragraph 3?",
           "choices": [
             "Urbanisation brings economic growth and access to advanced technology but creates inequality",
             "Overpopulation and urban sprawl are major issues caused by rapid urbanisation",
@@ -596,7 +602,7 @@
         },
         {
           "id": "EN12_READ_Q37B",
-          "question": "Question 37: Which of the following is TRUE according to the passage?",
+          "question": "Which of the following is TRUE according to the passage?",
           "choices": [
             "Urbanization only improves the facilities and quality of life for residents",
             "Cities benefit from technology and innovation, which discourages investment",
@@ -607,7 +613,7 @@
         },
         {
           "id": "EN12_READ_Q38B",
-          "question": "Question 38: Which of the following best paraphrases the underlined part in paragraph 3?",
+          "question": "Which of the following best paraphrases the underlined part in paragraph 3?",
           "choices": [
             "Although urbanisation brings many benefits, it only improves the economy and does not affect society or the environment",
             "Urbanisation brings only positive outcomes, with no consequences for the environment or society, leading to significant improvements in infrastructure and job opportunities",
@@ -618,7 +624,7 @@
         },
         {
           "id": "EN12_READ_Q39B",
-          "question": "Question 39: Which of the following can be inferred from the passage?",
+          "question": "Which of the following can be inferred from the passage?",
           "choices": [
             "The wealth gap caused by urbanisation could increase crime rates",
             "Environmental damage caused by urbanisation is irreversible",
@@ -629,7 +635,7 @@
         },
         {
           "id": "EN12_READ_Q40B",
-          "question": "Question 40: Which of the following best summarises the passage?",
+          "question": "Which of the following best summarises the passage?",
           "choices": [
             "The rise of urbanization brings economic growth and technological advancement without causing overcrowding, environmental degradation and social inequality",
             "Urbanisation offers economic development and better living conditions, but also brings about issues like overpopulation, environmental harm, and increased social inequality",
