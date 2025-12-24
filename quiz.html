@@ -213,16 +213,20 @@
       const is40Mode = targetCount === 40;
       const numReadings = is40Mode ? Math.min(2, readings.length) : Math.min(1, readings.length);
 
-      let totalReadingQuestions = 0;
       const selectedReadings = App.shuffle(readings).slice(0, numReadings);
+
+      let totalReadingMcq = 0;
       selectedReadings.forEach(r => {
-        totalReadingQuestions += r.questions.length;
+        totalReadingMcq += r.questions.length;
       });
 
-      const normalMcqCount = targetCount - totalReadingQuestions;
+      // Tính số MCQ thường cần lấy để tổng MCQ = targetCount
+      const neededNormalMcq = targetCount - totalReadingMcq;
 
-      selectedQuestions = App.shuffle(regularMcqs).slice(0, Math.max(0, normalMcqCount));
+      // Lấy đúng số lượng MCQ thường
+      selectedQuestions = App.shuffle(regularMcqs).slice(0, Math.max(0, neededNormalMcq));
 
+      // Thêm các phần reading vào cuối
       selectedReadings.forEach(reading => {
         selectedQuestions.push({
           type: 'reading_passage',
