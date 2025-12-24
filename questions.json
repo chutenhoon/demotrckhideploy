@@ -1,0 +1,97 @@
+{
+  "version": "1.0",
+  "subject": "Tiếng Anh 12 - Unit Reading Sample",
+  "questions": [
+    {
+      "id": "EN12_MCQ_01",
+      "type": "mcq",
+      "question": "What is the capital city of France?",
+      "choices": ["London", "Berlin", "Paris", "Madrid"],
+      "answer": 2
+    },
+    {
+      "id": "EN12_MCQ_02",
+      "type": "mcq",
+      "question": "Which word is a synonym of 'happy'?",
+      "choices": ["Sad", "Joyful", "Angry", "Tired"],
+      "answer": 1
+    },
+    {
+      "id": "EN12_MCQ_03",
+      "type": "mcq",
+      "question": "Choose the correct sentence:",
+      "choices": ["She go to school every day.", "She goes to school every day.", "She going to school every day.", "She went to school every day."],
+      "answer": 1
+    },
+    {
+      "id": "EN12_READING_01",
+      "type": "reading",
+      "passage": "VI. Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions from 31 to 40.\n\nUrbanisation is a phenomenon that has been occurring rapidly across the globe. As more people move from rural areas to cities in search of better job opportunities, education, and healthcare, the landscape of many countries is changing. While urbanisation brings numerous benefits, such as economic growth and improved infrastructure, it also presents significant challenges. [I]\n\nOne of the major advantages of urbanisation is the creation of more job opportunities. [II] Moreover, urban areas offer better educational and healthcare facilities, which help improve the quality of life for their residents. [III] In addition, cities often have better access to technology and innovation, enabling them to grow rapidly and attract investments.\n\nHowever, the rapid pace of urbanisation also leads to several problems. One of the biggest issues is overpopulation, which places a strain on infrastructure and resources. [IV] The increasing demand for housing results in the development of overcrowded areas, leading to a lack of space and poor living conditions for many people. Another consequence of urbanisation is the environmental impact, as cities expand and urban sprawl takes place. Deforestation, air pollution, and the depletion of natural resources are just a few of the negative effects.\n\nMoreover, the rise of urbanisation often results in social inequality. While some areas within a city flourish, others, especially slums and informal settlements, struggle with poverty and poor living standards. The other side of urban growth is that it can lead to a widening gap between the rich and the poor.\n\nIn conclusion, urbanisation brings both opportunities and challenges. While it can provide economic growth and improved living standards for many, it can also result in overcrowded cities, environmental damage, and social inequality. Other measures, such as the planning and development of sustainable cities, should be taken to ensure that the benefits of urbanisation are realised without compromising the well-being of citizens and the environment.",
+      "questions": [
+        {
+          "id": "EN12_READ_31",
+          "question": "Where in the passage does the following sentence best fit?\n\"With the expansion of cities, businesses and industries thrive, leading to higher employment rates.\"",
+          "choices": ["[I]", "[II]", "[III]", "[IV]"],
+          "answer": 1
+        },
+        {
+          "id": "EN12_READ_32",
+          "question": "The word \"it\" in paragraph 1 refers to ___________.",
+          "choices": ["infrastructure", "phenomenon", "economic growth", "urbanization"],
+          "answer": 3
+        },
+        {
+          "id": "EN12_READ_33",
+          "question": "The word \"innovation\" in paragraph 2 is opposite in meaning to ___________.",
+          "choices": ["breakthrough", "reversion", "revolution", "antiquity"],
+          "answer": 3
+        },
+        {
+          "id": "EN12_READ_34",
+          "question": "The phrase \"places a strain on\" in paragraph 3 mostly means ___________.",
+          "choices": ["puts pressure on", "caves under pressure", "takes the pressure off", "turns up the pressure"],
+          "answer": 0
+        },
+        {
+          "id": "EN12_READ_35",
+          "question": "According to the passage, which of the following is NOT a benefit of urbanisation?",
+          "choices": ["Higher employment rates", "Improved access to technology", "Better healthcare and education facilities", "Revolutionize the quality of life"],
+          "answer": 3
+        },
+        {
+          "id": "EN12_READ_36",
+          "question": "Which of the following best summarises paragraph 3?",
+          "choices": [
+            "Urbanisation brings economic growth and access to advanced technology but creates inequality.",
+            "Overpopulation and urban sprawl are major issues caused by rapid urbanisation.",
+            "The rise of urbanisation has led to widespread environmental and social challenges.",
+            "Poor living conditions in urban areas are a result of social inequality and poor planning."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "EN12_READ_37",
+          "question": "Which of the following is TRUE according to the passage?",
+          "choices": [
+            "Urbanization only improves the facilities and quality of life for residents.",
+            "Cities benefit from technology and innovation, which discourages investment.",
+            "Sharp drop in housing demand leads to overcrowded areas and poor living conditions.",
+            "Urbanisation causes social inequality, with both developed and poor areas in the same city."
+          ],
+          "answer": 3
+        },
+        {
+          "id": "EN12_READ_40",
+          "question": "Which of the following best summarises the passage?",
+          "choices": [
+            "The rise of urbanization brings economic growth and technological advancement without causing overcrowding, environmental degradation and social inequality.",
+            "Urbanisation offers economic development and better living conditions, but also brings about issues like overpopulation, environmental harm, and increased social inequality.",
+            "Urbanization brings both benefits, such as economic growth and improved infrastructure, as well as challenges, including overpopulation, environmental damage and social inequality, requiring solid planning.",
+            "While urbanisation offers improved infrastructure and access to education, it also creates challenges like overpopulation, environmental harm, and a growing gap between the rich and the poor."
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
