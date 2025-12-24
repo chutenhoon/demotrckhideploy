@@ -1,201 +1,278 @@
 {
-  "version": 2,
-  "count": 80,
-  "tests": [
+  "version": "1.0",
+  "subject": "Tiếng Anh - Green Living & Urbanisation",
+  "questions": [
     {
-      "test": "TEST 1 - Green Living",
+      "id": "TEST1_CLOZE1",
+      "type": "mcq",
+      "question": "(1) ___________ an eco-friendly lifestyle is crucial for preserving our planet.",
+      "choices": [
+        "Living",
+        "To live",
+        "Lived",
+        "Live"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST1_CLOZE2",
+      "type": "mcq",
+      "question": "Adopting (2) ___________ like recycling can significantly reduce waste.",
+      "choices": [
+        "simple habits daily",
+        "daily simple habits",
+        "habits simple daily",
+        "simple daily habits"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "TEST1_CLOZE3",
+      "type": "mcq",
+      "question": "Many people feel (3) ___________ with traditional methods of waste disposal, but recycling offers an exciting and rewarding alternative.",
+      "choices": [
+        "boring",
+        "bored",
+        "boringly",
+        "boredom"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST1_CLOZE4",
+      "type": "mcq",
+      "question": "To achieve a greener future, everyone must contribute their efforts (4) ______ environmental protection.",
+      "choices": [
+        "with",
+        "on",
+        "of",
+        "to"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "TEST1_CLOZE5",
+      "type": "mcq",
+      "question": "Sorting household waste, (5) ___________ separating recyclables, minimizes the impact on landfills.",
+      "choices": [
+        "was involving",
+        "involving",
+        "which involve",
+        "involved"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST1_CLOZE6",
+      "type": "mcq",
+      "question": "Together, let's (6) ___________ a change for a cleaner, healthier Earth!",
+      "choices": [
+        "make",
+        "have",
+        "book",
+        "do"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST1_CLOZE7",
+      "type": "mcq",
+      "question": "which are items that are (7) ___________ to have minimal impact on the planet.",
+      "choices": [
+        "designed",
+        "designing",
+        "designs",
+        "design"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST1_CLOZE8",
+      "type": "mcq",
+      "question": "Eco-friendly products often use natural materials and renewable resources, (8) ___________ helping to conserve energy and reduce pollution.",
+      "choices": [
+        "since",
+        "therefore",
+        "despite",
+        "unless"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST1_CLOZE9",
+      "type": "mcq",
+      "question": "items made from bamboo or recycled materials are highly sustainable and (9) ___________ waste in landfills.",
+      "choices": [
+        "increase",
+        "contribute",
+        "reduce",
+        "avoid"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "TEST1_CLOZE10",
+      "type": "mcq",
+      "question": "Choosing eco-friendly products also encourages businesses to adopt (10) sustainable practices.",
+      "choices": [
+        "alternative",
+        "alternatively",
+        "alter",
+        "altering"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST1_CLOZE11",
+      "type": "mcq",
+      "question": "Consumers should (11) ___________ research before making purchases to ensure products are genuinely environmentally friendly.",
+      "choices": [
+        "conduct",
+        "introduce",
+        "respond",
+        "evaluate"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST1_CLOZE12",
+      "type": "mcq",
+      "question": "This thoughtful approach to buying (12) ___________ not only the environment but also promotes healthier living.",
+      "choices": [
+        "supports",
+        "advances",
+        "deteriorates",
+        "informs"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST1_ARRANGE13",
+      "type": "mcq",
+      "question": "Mark the best arrangement:\na. Emily: That’s true. The litter from lanterns and balloons is very hard to decompose.\nb. Jack: Yes, I tried releasing sky lanterns during a festival. It looked beautiful! But I heard it’s bad for the environment.\nc. Emily: Have you ever released sky lanterns or balloons, Jack?",
+      "choices": [
+        "a – b – c",
+        "c – a – b",
+        "b – c – a",
+        "c – b – a"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "TEST1_ARRANGE14",
+      "type": "mcq",
+      "question": "Mark the best arrangement:\na. Nam: Hey guys, look at this notice! Our school is holding a Green Classroom Competition. The greenest classroom will win an ecotour!\nb. Nam: It says here that classrooms will be judged on the following: raising environmental awareness, reducing our carbon footprint, and using resources efficiently.\nc. Mark: I guess we should start by cleaning up our classroom more frequently and having more plants in it.\nd. Mark: How exciting! But how will the classrooms be judged?",
+      "choices": [
+        "c – b – d – a",
+        "a – d – b – c",
+        "a – c – b – d",
+        "b – a – d – c"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST1_ARRANGE15",
+      "type": "mcq",
+      "question": "Mark the best arrangement:\nDear Alex,\na. During the festive season, almost every home and shop displays a Christmas tree, but both real and fake trees have environmental impacts.\nb. I hope this letter finds you well. I wanted to share some thoughts about Christmas trees because I recently read something interesting.\nc. Knowing this, I think we should consider more sustainable options for the holidays.\nd. Real trees release harmful gases like methane and carbon dioxide when they decompose in landfills, while fake trees can be reused for many years, yet their production releases pollutants into the air and they take hundreds of years to decompose.\ne. What kind of Christmas tree do you use? Let me know your thoughts!\nBest wishes,\nEmma",
+      "choices": [
+        "d – c – a – b – e",
+        "d – e – c – a – b",
+        "b – a – d – c – e",
+        "d – c – e – a – b"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "TEST1_ARRANGE16",
+      "type": "mcq",
+      "question": "Mark the best arrangement:\na. Reusing or “upcycling” furniture in this way can protect the environment – we don’t have to cut down trees to get wood for new tables and chairs.\nb. For example, some people recycle old furniture as a hobby. They buy old furniture at yard sales or stores that sell used items.\nc. If you damage a piece of furniture, don’t put it in the trash: Repair it or turn it into something new.\nd. Then they paint it or change it in some way to create something new.\ne. One way to help the environment is to reuse old furniture instead of throwing it out.",
+      "choices": [
+        "e – c – b – d – a",
+        "c – a – b – d – e",
+        "e – c – b – d – a",
+        "a – b – c – d – e"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST1_ARRANGE17",
+      "type": "mcq",
+      "question": "Mark the best arrangement:\na. However, failing to live sustainably may lead to severe consequences, including resource depletion and irreversible environmental damage.\nb. By adopting small changes like using reusable bags and recycling, anyone can contribute to a greener planet.\nc. For example, switching to renewable energy sources like solar panels not only reduces your carbon footprint but also saves money in the long run.\nd. Green living involves making conscious choices to protect the environment, such as reducing waste, conserving energy, and using sustainable materials.\ne. If more people adopt these practices, we can slow down climate change and protect natural ecosystems.",
+      "choices": [
+        "d – c – e – b – a",
+        "d – e – c – a – b",
+        "b – a – d – c – e",
+        "d – c – a – e – b"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "TEST1_COMPLETION18",
+      "type": "mcq",
+      "question": "Green living, which focuses on reducing environmental impact, (18) ______. ",
+      "choices": [
+        "adopting green living can inspire individuals to adopt better habits, reducing their environmental impact",
+        "not only helps create a healthier planet for future generations but also promotes sustainable practices",
+        "which minimizes energy consumption and reduces costs while benefiting the environment.",
+        "could inspire individuals to adopt better habits and reduce their environmental footprint."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST1_COMPLETION19",
+      "type": "mcq",
+      "question": "Simple changes, like using reusable water bottles or recycling household waste, (19) ______. ",
+      "choices": [
+        "are small yet powerful actions that anyone can take",
+        "have the potential to reduce waste in urban and rural areas",
+        "encourage people to replace single-use items and save money",
+        "often lead to larger changes in community behaviors"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST1_COMPLETION20",
+      "type": "mcq",
+      "question": "Using renewable energy sources, like solar power, further promotes sustainability and decreases reliance on fossil fuels. (20) ______. ",
+      "choices": [
+        "This method has proven effective in significantly reducing global emissions and improving air quality.",
+        "It can help create cleaner air, reduce pollution, and build more resilient communities.",
+        "Some families struggle to afford renewable energy installations, limiting their access to green power.",
+        "This approach benefits the environment, lowers energy costs, and enhances sustainability for households."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "TEST1_COMPLETION21",
+      "type": "mcq",
+      "question": "By living sustainably, (21) ______. ",
+      "choices": [
+        "individuals encourage others to reduce waste in daily life",
+        "families and communities work together to save energy and water",
+        "people inspire others to adopt green practices and make a collective impact",
+        "people can better understand how their habits affect the environment"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "TEST1_COMPLETION22",
+      "type": "mcq",
+      "question": "By sharing their efforts, individuals create a ripple effect (22) ______. ",
+      "choices": [
+        "of which communities are inspired to adopt greener habits and share ideas",
+        "encouraging others to find innovative ways to conserve resources",
+        "that spreads environmental awareness and responsibility",
+        "will encourage others to find innovative ways to conserve resources"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "TEST1_READING_PASSAGE1",
+      "type": "reading",
+      "passage": "For the past decades, the importance of various ecosystems has become widely understood. Therefore, humans have carried out various methods to protect the natural world, including making the switch to green energy sources.\nSolar energy is harnessed through solar panels and converted into usable electricity. This remarkably efficient energy source generates few harmful emissions, making it a potent tool in reducing our carbon footprint. Furthermore, solar panels are ideally suited for small-scale installations, such as residential homes, as they demand minimal maintenance costs and have a long lifespan. However, the effectiveness of solar power is determined by weather conditions, which makes it less practical in areas where sunny weather is infrequent.\nWind power involves the transformation of wind energy into electricity through the use of large turbines. Wind power produces little greenhouse gases, but it is less suitable for private use due to the consistent maintenance requirements of turbines. Nevertheless, wind farms can be deployed on a large scale and are capable of generating electricity continuously. As a result, there could be increased investments in wind power that could offer a stable energy supply to major cities.\nThe combined forces of wind and solar power play a substantial role in promoting an eco-friendly environment by reducing our reliance on fossil fuels, reducing pollution and slowing down the progression of climate change. Moreover, the utilisation of renewable energy sources stimulates investment in sustainable development by creating new career opportunities within the green energy sector.\nToday, the installation and infrastructure costs are the main obstacles to the transition to green energy. However, they offer undeniable benefits that far outweigh their drawbacks, which can help US ensure a more sustainable future.",
       "questions": [
         {
-          "id": "TEST1-Q1",
-          "number": 1,
-          "type": "cloze",
-          "passage": "Green Living: A Better Tomorrow\n(1) ___________ an eco-friendly lifestyle is crucial for preserving our planet. Adopting (2) ___________ like recycling can significantly reduce waste. Many people feel (3) ___________ with traditional methods of waste disposal, but recycling offers an exciting and rewarding alternative. Raised awareness among communities helps to inspire others to join the cause. To achieve a greener future, everyone must contribute their efforts (4) ______ environmental protection.\nBy going green, we ensure a sustainable life for future generations. It is important to reuse containers instead of relying on single-use packaging. Sorting household waste, (5) ___________ separating recyclables, minimizes the impact on landfills. Together, let's (6) ___________ a change for a cleaner, healthier Earth!",
-          "question": "(1) ___________ an eco-friendly lifestyle is crucial for preserving our planet.",
-          "choices": ["Living", "To live", "Lived", "Live"],
-          "answer": 0
-        },
-        {
-          "id": "TEST1-Q2",
-          "number": 2,
-          "question": "Adopting (2) ___________ like recycling can significantly reduce waste.",
-          "choices": ["simple habits daily", "daily simple habits", "habits simple daily", "simple daily habits"],
-          "answer": 3
-        },
-        {
-          "id": "TEST1-Q3",
-          "number": 3,
-          "question": "Many people feel (3) ___________ with traditional methods of waste disposal, but recycling offers an exciting and rewarding alternative.",
-          "choices": ["boring", "bored", "boringly", "boredom"],
-          "answer": 1
-        },
-        {
-          "id": "TEST1-Q4",
-          "number": 4,
-          "question": "To achieve a greener future, everyone must contribute their efforts (4) ______ environmental protection.",
-          "choices": ["with", "on", "of", "to"],
-          "answer": 3
-        },
-        {
-          "id": "TEST1-Q5",
-          "number": 5,
-          "question": "Sorting household waste, (5) ___________ separating recyclables, minimizes the impact on landfills.",
-          "choices": ["was involving", "involving", "which involve", "involved"],
-          "answer": 1
-        },
-        {
-          "id": "TEST1-Q6",
-          "number": 6,
-          "question": "Together, let's (6) ___________ a change for a cleaner, healthier Earth!",
-          "choices": ["make", "have", "book", "do"],
-          "answer": 0
-        },
-        {
-          "id": "TEST1-Q7",
-          "number": 7,
-          "type": "cloze",
-          "passage": "ECO-FRIENDLY PRODUCTS FOR GREEN LIVING\nGreen living has become increasingly popular as people look for ways to reduce their impact on the environment. One key part of this movement is the use of eco-friendly products, which are items that are (7) ___________ to have minimal impact on the planet. Eco-friendly products often use natural materials and renewable resources, (8) ___________ helping to conserve energy and reduce pollution. For example, items made from bamboo or recycled materials are highly sustainable and (9) ___________ waste in landfills. Choosing eco-friendly products also encourages businesses to adopt (10) sustainable practices. However, it’s essential to understand that not all products labeled \"eco-friendly\" are truly beneficial. Consumers should (11) ___________ research before making purchases to ensure products are genuinely environmentally friendly. This thoughtful approach to buying (12) ___________ not only the environment but also promotes healthier living.",
-          "question": "which are items that are (7) ___________ to have minimal impact on the planet.",
-          "choices": ["designed", "designing", "designs", "design"],
-          "answer": 0
-        },
-        {
-          "id": "TEST1-Q8",
-          "number": 8,
-          "question": "Eco-friendly products often use natural materials and renewable resources, (8) ___________ helping to conserve energy and reduce pollution.",
-          "choices": ["since", "therefore", "despite", "unless"],
-          "answer": 1
-        },
-        {
-          "id": "TEST1-Q9",
-          "number": 9,
-          "question": "items made from bamboo or recycled materials are highly sustainable and (9) ___________ waste in landfills.",
-          "choices": ["increase", "contribute", "reduce", "avoid"],
-          "answer": 2
-        },
-        {
-          "id": "TEST1-Q10",
-          "number": 10,
-          "question": "Choosing eco-friendly products also encourages businesses to adopt (10) sustainable practices.",
-          "choices": ["alternative", "alternatively", "alter", "altering"],
-          "answer": 0
-        },
-        {
-          "id": "TEST1-Q11",
-          "number": 11,
-          "question": "Consumers should (11) ___________ research before making purchases to ensure products are genuinely environmentally friendly.",
-          "choices": ["conduct", "introduce", "respond", "evaluate"],
-          "answer": 0
-        },
-        {
-          "id": "TEST1-Q12",
-          "number": 12,
-          "question": "This thoughtful approach to buying (12) ___________ not only the environment but also promotes healthier living.",
-          "choices": ["supports", "advances", "deteriorates", "informs"],
-          "answer": 0
-        },
-        {
-          "id": "TEST1-Q13",
-          "number": 13,
-          "type": "arrangement",
-          "question": "a. Emily: That’s true. The litter from lanterns and balloons is very hard to decompose.\nb. Jack: Yes, I tried releasing sky lanterns during a festival. It looked beautiful! But I heard it’s bad for the environment.\nc. Emily: Have you ever released sky lanterns or balloons, Jack?\nMark the best arrangement:",
-          "choices": ["a – b – c", "c – a – b", "b – c – a", "c – b – a"],
-          "answer": 3
-        },
-        {
-          "id": "TEST1-Q14",
-          "number": 14,
-          "question": "a. Nam: Hey guys, look at this notice! Our school is holding a Green Classroom Competition. The greenest classroom will win an ecotour!\nb. Nam: It says here that classrooms will be judged on the following: raising environmental awareness, reducing our carbon footprint, and using resources efficiently.\nc. Mark: I guess we should start by cleaning up our classroom more frequently and having more plants in it.\nd. Mark: How exciting! But how will the classrooms be judged?\nMark the best arrangement:",
-          "choices": ["c – b – d – a", "a – d – b – c", "a – c – b – d", "b – a – d – c"],
-          "answer": 1
-        },
-        {
-          "id": "TEST1-Q15",
-          "number": 15,
-          "question": "Dear Alex,\na. During the festive season, almost every home and shop displays a Christmas tree, but both real and fake trees have environmental impacts.\nb. I hope this letter finds you well. I wanted to share some thoughts about Christmas trees because I recently read something interesting.\nc. Knowing this, I think we should consider more sustainable options for the holidays.\nd. Real trees release harmful gases like methane and carbon dioxide when they decompose in landfills, while fake trees can be reused for many years, yet their production releases pollutants into the air and they take hundreds of years to decompose.\ne. What kind of Christmas tree do you use? Let me know your thoughts!\nBest wishes,\nEmma\nMark the best arrangement:",
-          "choices": ["d – c – a – b – e", "d – e – c – a – b", "b – a – d – c – e", "d – c – e – a – b"],
-          "answer": 2
-        },
-        {
-          "id": "TEST1-Q16",
-          "number": 16,
-          "question": "a. Reusing or “upcycling” furniture in this way can protect the environment – we don’t have to cut down trees to get wood for new tables and chairs.\nb. For example, some people recycle old furniture as a hobby. They buy old furniture at yard sales or stores that sell used items.\nc. If you damage a piece of furniture, don’t put it in the trash: Repair it or turn it into something new.\nd. Then they paint it or change it in some way to create something new.\ne. One way to help the environment is to reuse old furniture instead of throwing it out.\nMark the best arrangement:",
-          "choices": ["e – c – b – d – a", "c – a – b – d – e", "e – c – b – d – a", "a – b – c – d – e"],
-          "answer": 0
-        },
-        {
-          "id": "TEST1-Q17",
-          "number": 17,
-          "question": "a. However, failing to live sustainably may lead to severe consequences, including resource depletion and irreversible environmental damage.\nb. By adopting small changes like using reusable bags and recycling, anyone can contribute to a greener planet.\nc. For example, switching to renewable energy sources like solar panels not only reduces your carbon footprint but also saves money in the long run.\nd. Green living involves making conscious choices to protect the environment, such as reducing waste, conserving energy, and using sustainable materials.\ne. If more people adopt these practices, we can slow down climate change and protect natural ecosystems.\nMark the best arrangement:",
-          "choices": ["d – c – e – b – a", "d – e – c – a – b", "b – a – d – c – e", "d – c – a – e – b"],
-          "answer": 3
-        },
-        {
-          "id": "TEST1-Q18",
-          "number": 18,
-          "type": "cloze",
-          "passage": "Green living, which focuses on reducing environmental impact, (18) ______. Simple changes, like using reusable water bottles or recycling household waste, (19) ______. These habits reduce pollution and conserve valuable resources.\nOne important aspect of green living is energy conservation. People, who often overlook small steps such as turning off unused appliances, can significantly reduce their energy consumption by being mindful. Using renewable energy sources, like solar power, further promotes sustainability and decreases reliance on fossil fuels. (20) ______.\nBy living sustainably, (21) ______. Walking, cycling, or using public transport minimizes carbon emissions while improving personal health. By sharing their efforts, individuals create a ripple effect (22) ______.\nThrough conscious efforts and community action, green living can transition from an individual choice to a global movement that secures the planet’s future.",
-          "question": "Green living, which focuses on reducing environmental impact, (18) ______. ",
-          "choices": [
-            "adopting green living can inspire individuals to adopt better habits, reducing their environmental impact",
-            "not only helps create a healthier planet for future generations but also promotes sustainable practices",
-            "which minimizes energy consumption and reduces costs while benefiting the environment.",
-            "could inspire individuals to adopt better habits and reduce their environmental footprint."
-          ],
-          "answer": 1
-        },
-        {
-          "id": "TEST1-Q19",
-          "number": 19,
-          "question": "Simple changes, like using reusable water bottles or recycling household waste, (19) ______. ",
-          "choices": [
-            "are small yet powerful actions that anyone can take",
-            "have the potential to reduce waste in urban and rural areas",
-            "encourage people to replace single-use items and save money",
-            "often lead to larger changes in community behaviors"
-          ],
-          "answer": 0
-        },
-        {
-          "id": "TEST1-Q20",
-          "number": 20,
-          "question": "Using renewable energy sources, like solar power, further promotes sustainability and decreases reliance on fossil fuels. (20) ______. ",
-          "choices": [
-            "This method has proven effective in significantly reducing global emissions and improving air quality.",
-            "It can help create cleaner air, reduce pollution, and build more resilient communities.",
-            "Some families struggle to afford renewable energy installations, limiting their access to green power.",
-            "This approach benefits the environment, lowers energy costs, and enhances sustainability for households."
-          ],
-          "answer": 3
-        },
-        {
-          "id": "TEST1-Q21",
-          "number": 21,
-          "question": "By living sustainably, (21) ______. ",
-          "choices": [
-            "individuals encourage others to reduce waste in daily life",
-            "families and communities work together to save energy and water",
-            "people inspire others to adopt green practices and make a collective impact",
-            "people can better understand how their habits affect the environment"
-          ],
-          "answer": 2
-        },
-        {
-          "id": "TEST1-Q22",
-          "number": 22,
-          "question": "By sharing their efforts, individuals create a ripple effect (22) ______. ",
-          "choices": [
-            "of which communities are inspired to adopt greener habits and share ideas",
-            "encouraging others to find innovative ways to conserve resources",
-            "that spreads environmental awareness and responsibility",
-            "will encourage others to find innovative ways to conserve resources"
-          ],
-          "answer": 2
-        },
-        {
-          "id": "TEST1-Q24",
-          "number": 24,
-          "type": "reading",
-          "passage": "For the past decades, the importance of various ecosystems has become widely understood. Therefore, humans have carried out various methods to protect the natural world, including making the switch to green energy sources.\nSolar energy is harnessed through solar panels and converted into usable electricity. This remarkably efficient energy source generates few harmful emissions, making it a potent tool in reducing our carbon footprint. Furthermore, solar panels are ideally suited for small-scale installations, such as residential homes, as they demand minimal maintenance costs and have a long lifespan. However, the effectiveness of solar power is determined by weather conditions, which makes it less practical in areas where sunny weather is infrequent.\nWind power involves the transformation of wind energy into electricity through the use of large turbines. Wind power produces little greenhouse gases, but it is less suitable for private use due to the consistent maintenance requirements of turbines. Nevertheless, wind farms can be deployed on a large scale and are capable of generating electricity continuously. As a result, there could be increased investments in wind power that could offer a stable energy supply to major cities.\nThe combined forces of wind and solar power play a substantial role in promoting an eco-friendly environment by reducing our reliance on fossil fuels, reducing pollution and slowing down the progression of climate change. Moreover, the utilisation of renewable energy sources stimulates investment in sustainable development by creating new career opportunities within the green energy sector.\nToday, the installation and infrastructure costs are the main obstacles to the transition to green energy. However, they offer undeniable benefits that far outweigh their drawbacks, which can help us ensure a more sustainable future.",
+          "id": "TEST1_READ_24",
           "question": "Which of the following benefits is NOT mentioned as solar and wind energy?",
           "choices": [
             "Limit the production of harmful emissions.",
@@ -206,15 +283,18 @@
           "answer": 2
         },
         {
-          "id": "TEST1-Q25",
-          "number": 25,
+          "id": "TEST1_READ_25",
           "question": "The word “harnessed” in paragraph 2 is closest in meaning to",
-          "choices": ["damaged", "captured", "wasted", "affordable"],
+          "choices": [
+            "damaged",
+            "captured",
+            "wasted",
+            "affordable"
+          ],
           "answer": 1
         },
         {
-          "id": "TEST1-Q26a",
-          "number": 26,
+          "id": "TEST1_READ_26A",
           "question": "Which of the following best paraphrases the sentence: \"However, the effectiveness of solar power is determined by weather conditions, which makes it less practical in areas where sunny weather is infrequent\"?",
           "choices": [
             "Solar power is practical in regions with sunny weather all year round.",
@@ -225,22 +305,29 @@
           "answer": 3
         },
         {
-          "id": "TEST1-Q26b",
-          "number": 26,
+          "id": "TEST1_READ_26B",
           "question": "The word “stable” in paragraph 3 is opposite in meaning to",
-          "choices": ["smooth", "consistent", "effective", "intermittent"],
+          "choices": [
+            "smooth",
+            "consistent",
+            "effective",
+            "intermitten"
+          ],
           "answer": 3
         },
         {
-          "id": "TEST1-Q27",
-          "number": 27,
+          "id": "TEST1_READ_27",
           "question": "The word “they” in paragraph 5 refers to",
-          "choices": ["benefits", "costs", "obstacles", "energy sources"],
-          "answer": 3
+          "choices": [
+            "benefits",
+            "costs",
+            "obstacles",
+            "energy sources"
+          ],
+          "answer": 1
         },
         {
-          "id": "TEST1-Q28",
-          "number": 28,
+          "id": "TEST1_READ_28",
           "question": "Which of the following is NOT true according to the text?",
           "choices": [
             "Green energy sources will be the key to human sustainable future.",
@@ -251,52 +338,80 @@
           "answer": 1
         },
         {
-          "id": "TEST1-Q29",
-          "number": 29,
+          "id": "TEST1_READ_29",
           "question": "In which paragraph does the writer mention the role of renewable energy in creating job opportunities?",
-          "choices": ["Paragraph 2", "Paragraph 3", "Paragraph 4", "Paragraph 5"],
+          "choices": [
+            "Paragraph 2",
+            "Paragraph 3",
+            "Paragraph 4",
+            "Paragraph 5"
+          ],
           "answer": 2
         },
         {
-          "id": "TEST1-Q30",
-          "number": 30,
+          "id": "TEST1_READ_30",
           "question": "In which paragraph does the writer explain the challenges of adopting green energy?",
-          "choices": ["Paragraph 1", "Paragraph 2", "Paragraph 4", "Paragraph 5"],
+          "choices": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 4",
+            "Paragraph 5"
+          ],
           "answer": 3
-        },
+        }
+      ]
+    },
+    {
+      "id": "TEST1_READING_PASSAGE2",
+      "type": "reading",
+      "passage": "Green Living\n[I] Green living, often referred to as sustainable living, encourages individuals to adopt environmentally friendly practices in their daily lives. [II] This lifestyle includes reducing waste, conserving natural resources, and promoting eco-friendly habits, which collectively help to minimize the negative impact on the environment (Davies & Mulligan, 2017). [III] Although green living requires effort and adjustment, its benefits for the planet and future generations are substantial. [IV]\nOne of the fundamental aspects of green living is waste reduction. This can be achieved through practices like recycling, composting, and reducing single-use plastics. According to a report by the Environmental Protection Agency (EPA), recycling and composting can significantly decrease the amount of waste sent to landfills, which helps reduce greenhouse gas emissions and pollution (EPA, 2021). Additionally, adopting reusable items such as water bottles and shopping bags minimizes reliance on plastic, which is crucial for protecting ecosystems and wildlife.\nAnother key component of green living is energy conservation. Simple changes, like switching to LED light bulbs and using public transportation, can reduce an individual's carbon footprint. A study by the International Energy Agency (IEA) shows that energy efficiency improvements, if widely implemented, could decrease global energy demand by up to 40% by 2050 (IEA, 2019). By conserving energy, individuals not only lower their utility bills but also contribute to the reduction of carbon emissions, which is essential for mitigating climate change.\nGreen living also involves making conscious choices about the products we consume. This includes opting for sustainably sourced goods, supporting local businesses, and choosing organic produce. Sustainable agriculture practices reduce the need for chemical pesticides and fertilizers, which can harm both the soil and water sources (Smith & Taylor, 2020). By making informed purchases, consumers can support eco-friendly industries and help create a demand for greener alternatives.",
+      "questions": [
         {
-          "id": "TEST1-Q31",
-          "number": 31,
-          "type": "reading",
-          "passage": "Green Living\n[I] Green living, often referred to as sustainable living, encourages individuals to adopt environmentally friendly practices in their daily lives. [II] This lifestyle includes reducing waste, conserving natural resources, and promoting eco-friendly habits, which collectively help to minimize the negative impact on the environment (Davies & Mulligan, 2017). [III] Although green living requires effort and adjustment, its benefits for the planet and future generations are substantial. [IV]\nOne of the fundamental aspects of green living is waste reduction. This can be achieved through practices like recycling, composting, and reducing single-use plastics. According to a report by the Environmental Protection Agency (EPA), recycling and composting can significantly decrease the amount of waste sent to landfills, which helps reduce greenhouse gas emissions and pollution (EPA, 2021). Additionally, adopting reusable items such as water bottles and shopping bags minimizes reliance on plastic, which is crucial for protecting ecosystems and wildlife.\nAnother key component of green living is energy conservation. Simple changes, like switching to LED light bulbs and using public transportation, can reduce an individual's carbon footprint. A study by the International Energy Agency (IEA) shows that energy efficiency improvements, if widely implemented, could decrease global energy demand by up to 40% by 2050 (IEA, 2019). By conserving energy, individuals not only lower their utility bills but also contribute to the reduction of carbon emissions, which is essential for mitigating climate change.\nGreen living also involves making conscious choices about the products we consume. This includes opting for sustainably sourced goods, supporting local businesses, and choosing organic produce. Sustainable agriculture practices reduce the need for chemical pesticides and fertilizers, which can harm both the soil and water sources (Smith & Taylor, 2020). By making informed purchases, consumers can support eco-friendly industries and help create a demand for greener alternatives.",
+          "id": "TEST1_READ_31",
           "question": "Where in paragraph 1 does the following sentence best fit? \"Green living practices are gaining popularity as people become more aware of environmental issues.\"",
-          "choices": ["[I]", "[II]", "[III]", "[IV]"],
-          "answer": 0
-        },
-        {
-          "id": "TEST1-Q32",
-          "number": 32,
-          "question": "The phrase \"carbon footprint\" in paragraph 3 could be best replaced by ________.",
-          "choices": ["environmental awareness", "carbon emissions", "personal waste", "air quality"],
+          "choices": [
+            "[I]",
+            "[II]",
+            "[III]",
+            "[IV]"
+          ],
           "answer": 1
         },
         {
-          "id": "TEST1-Q33",
-          "number": 33,
+          "id": "TEST1_READ_32",
+          "question": "The phrase \"carbon footprint\" in paragraph 3 could be best replaced by ________.",
+          "choices": [
+            "environmental awareness",
+            "carbon emissions",
+            "personal waste",
+            "air quality"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "TEST1_READ_33",
           "question": "The word \"their\" in paragraph 3 refers to ________.",
-          "choices": ["individuals", "LED light bulbs", "utility bills", "carbon emissions"],
+          "choices": [
+            "individuals",
+            "LED light bulbs",
+            "utility bills",
+            "carbon emissions"
+          ],
           "answer": 0
         },
         {
-          "id": "TEST1-Q34",
-          "number": 34,
+          "id": "TEST1_READ_34",
           "question": "According to paragraph 2, which of the following is NOT a way to reduce waste?",
-          "choices": ["Using compost bins", "Recycling plastic", "Adopting single-use items", "Using reusable shopping bags"],
+          "choices": [
+            "Using compost bins",
+            "Recycling plastic",
+            "Adopting single-use items",
+            "Using reusable shopping bags"
+          ],
           "answer": 2
         },
         {
-          "id": "TEST1-Q35",
-          "number": 35,
+          "id": "TEST1_READ_35",
           "question": "Which of the following best summarizes paragraph 3?",
           "choices": [
             "Energy conservation is crucial for green living, reducing carbon emissions, air pollution, and improving energy efficiency.",
@@ -307,15 +422,18 @@
           "answer": 1
         },
         {
-          "id": "TEST1-Q36",
-          "number": 36,
+          "id": "TEST1_READ_36",
           "question": "The word \"mitigating\" in paragraph 3 is OPPOSITE in meaning to ________.",
-          "choices": ["worsening", "reducing", "increasing", "ignoring"],
+          "choices": [
+            "worsening",
+            "reducing",
+            "increasing",
+            "ignoring"
+          ],
           "answer": 0
         },
         {
-          "id": "TEST1-Q37",
-          "number": 37,
+          "id": "TEST1_READ_37",
           "question": "Which of the following is TRUE according to the passage?",
           "choices": [
             "Single-use plastics are preferred for green living practices.",
@@ -326,9 +444,8 @@
           "answer": 1
         },
         {
-          "id": "TEST1-Q38",
-          "number": 38,
-          "question": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
+          "id": "TEST1_READ_38",
+          "question": "Which of the following best paraphrases the underlined sentence in paragraph 4? (Underlined: By making informed purchases, consumers can support eco-friendly industries and help create a demand for greener alternatives.)",
           "choices": [
             "When consumers buy products thoughtfully, they can encourage industries to adopt environmentally friendly practices and increase the need for more sustainable options.",
             "Consumers can make eco-friendly choices by buying products that support industries focused on reducing waste and pollution.",
@@ -338,8 +455,7 @@
           "answer": 0
         },
         {
-          "id": "TEST1-Q39",
-          "number": 39,
+          "id": "TEST1_READ_39",
           "question": "Which of the following can be inferred from the passage?",
           "choices": [
             "Green living practices are only effective if implemented on a global scale.",
@@ -350,8 +466,7 @@
           "answer": 2
         },
         {
-          "id": "TEST1-Q40",
-          "number": 40,
+          "id": "TEST1_READ_40",
           "question": "Which of the following best summarizes the passage?",
           "choices": [
             "Green living promotes reducing waste, conserving energy, and supporting local businesses to create a more sustainable environment.",
@@ -364,221 +479,309 @@
       ]
     },
     {
-      "test": "TEST 2 - Urbanisation",
+      "id": "TEST2_CLOZE1",
+      "type": "mcq",
+      "question": "Are you ready to reshape urban (1) ___________ and create better living spaces?",
+      "choices": [
+        "views",
+        "outlook",
+        "sights",
+        "landscapes"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "TEST2_CLOZE2",
+      "type": "mcq",
+      "question": "(2) ___________ urban infrastructure to enhance connectivity and accessibility.",
+      "choices": [
+        "Improve",
+        "Improving",
+        "To improving",
+        "Improved"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST2_CLOZE3",
+      "type": "mcq",
+      "question": "Helping communities adapt (3) ___________ urban challenges by providing tailored solutions.",
+      "choices": [
+        "with",
+        "of",
+        "to",
+        "about"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "TEST2_CLOZE4",
+      "type": "mcq",
+      "question": "addressing the needs of (4) ___________ cities.",
+      "choices": [
+        "grown",
+        "growing",
+        "growth",
+        "grow"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST2_CLOZE5",
+      "type": "mcq",
+      "question": "We also offer smart technologies (5) ___________ cities keep up with rapid urbanisation and thrive in the 21st century.",
+      "choices": [
+        "helps",
+        "helped",
+        "which helped",
+        "helping"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "TEST2_CLOZE6",
+      "type": "mcq",
+      "question": "build a world-class (6) ___________",
+      "choices": [
+        "urban transport system",
+        "transport urban system",
+        "system urban transport",
+        "system transport urban"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST2_CLOZE7",
+      "type": "mcq",
+      "question": "Urbanisation is (7) ___________ our world.",
+      "choices": [
+        "pausing",
+        "stabilizing",
+        "expanding",
+        "reshaping"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "TEST2_CLOZE8",
+      "type": "mcq",
+      "question": "Some areas are thriving, while (8) ___________ face overcrowding and infrastructure shortages.",
+      "choices": [
+        "others",
+        "the others",
+        "anothers",
+        "other"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST2_CLOZE9",
+      "type": "mcq",
+      "question": "Big cities, now home to millions, are seeing costs (9) ___________, making life more expensive.",
+      "choices": [
+        "take down",
+        "result in",
+        "go up",
+        "stay strong"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "TEST2_CLOZE11",
+      "type": "mcq",
+      "question": "However, (11) ___________ poor management, it may worsen (12) ___________ and environmental issues.",
+      "choices": [
+        "irrespective of",
+        "in view of",
+        "as long as",
+        "even though"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST2_CLOZE12",
+      "type": "mcq",
+      "question": "However, (11) ___________ poor management, it may worsen (12) ___________ and environmental issues.",
+      "choices": [
+        "fairness",
+        "suffering",
+        "prosperity",
+        "inequality"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "TEST2_ARRANGE13",
+      "type": "mcq",
+      "question": "Mark the best arrangement:\na. Alicia: Have you noticed more people working from home? The future of work in cities is changing.\nb. Alicia: True, but cities will need better infrastructure like co-working spaces and reliable internet for remote workers.\nc. Ben: Yes, with tech improving, hybrid work could reduce traffic and crowding in cities.",
+      "choices": [
+        "c – a – b",
+        "c – b – a",
+        "a – c – b",
+        "a – c – b"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "TEST2_ARRANGE14",
+      "type": "mcq",
+      "question": "Mark the best arrangement:\na. Tom: I agree. Providing more affordable housing options alongside green spaces and good transport links would make a big difference.\nb. Tom: Maybe the government could offer subsidies for low-income families or create more mixed-use developments.\nc. Sarah: The rising cost of housing in the city is a real problem. How can we make it more affordable?\nd. Sarah: That could help, but we also need better planning to avoid overcrowding and ensure quality living conditions.",
+      "choices": [
+        "c – d – a – b",
+        "c – b – d – a",
+        "d – c – b – a",
+        "d – b – c – a"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST2_ARRANGE15",
+      "type": "mcq",
+      "question": "Mark the best arrangement:\nHi Jack,\na. Thank you for sending that article on city growth; it gave me a lot to consider.\nb. The demand for housing in urban areas is rising rapidly, and the prices are becoming unaffordable for many people.\nc. I’ve been thinking a lot about the impact of urbanisation on local economies.\nd. I think it would be a good idea to host an event in our community to discuss sustainable development. What are your thoughts on this?\ne. It’s encouraging to see the progress in urban development, but we still have many challenges to address.\nWrite back soon.\nBest,\nNam",
+      "choices": [
+        "a – e – c – b – d",
+        "a – b – c – e – d",
+        "a – e – b – c – d",
+        "a – c – b – e – d"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST2_ARRANGE16",
+      "type": "mcq",
+      "question": "Mark the best arrangement:\na. As cities expand, the demand for housing, jobs, and services increases, attracting individuals seeking improved living standards.\nb. However, the rapid growth of cities also brings challenges like overcrowding and resource depletion, requiring effective planning to ensure sustainable development.\nc. In addition to economic factors, many migrants are drawn to cities for better access to education, healthcare, and technology.\nd. This movement has resulted in increased cultural diversity in urban areas.\ne. The growth of cities has caused a significant shift in migration patterns, with more people moving from rural areas to urban centres in search of better opportunities.",
+      "choices": [
+        "e – c – d – b – a",
+        "e – a – c – d – b",
+        "e – a – b – c – d",
+        "e – d – b – a – c"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST2_ARRANGE17",
+      "type": "mcq",
+      "question": "Mark the best arrangement:\na. As cities grow, the implementation of smart technologies, such as traffic management systems, has made it easier for people to get around and avoid getting stuck in traffic jams, a problem that was once inevitable.\nb. In addition to enhancing urban mobility, these innovations have brought about a significant reduction in pollution, which would have otherwise resulted in worsened environmental conditions.\nc. In modern cities, technology plays an increasingly crucial role in improving the quality of life for residents.\nd. With these advancements, urban areas are not only becoming hubs of technological progress but also places that attract people from all over the world, eager to settle in and experience a higher standard of living.\ne. This shift towards more sustainable living is translated into cleaner air, better public health, and more efficient use of resources, making cities more livable.",
+      "choices": [
+        "c – e – a – b – d",
+        "c – a – b – d – e",
+        "c – a – b – e – d",
+        "c – e – b – a – d"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "TEST2_COMPLETION18",
+      "type": "mcq",
+      "question": "Urbanization, the process of population moving from rural areas to cities, (18) ___________.",
+      "choices": [
+        "on which people's lifestyles have changed significantly",
+        "are leading to significant shifts in people's lifestyles",
+        "resulting in significant changes in people's living habits",
+        "has significantly changed the way people live"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "TEST2_COMPLETION19",
+      "type": "mcq",
+      "question": "It creates challenges for residents, (19) ___________.",
+      "choices": [
+        "rapidly increasing the number of housing units available for rent",
+        "making it difficult for them to find affordable places to live",
+        "which eventually causes people to struggle with high rent prices",
+        "many people are struggling to find affordable housing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST2_COMPLETION20",
+      "type": "mcq",
+      "question": "I visited a neighborhood (20) ___________.",
+      "choices": [
+        "which had several high-rise buildings but lacked basic infrastructure",
+        "offering a mix of residential and commercial spaces with modern amenities",
+        "affected by severe flooding, storms that led to migration to the big city",
+        "where new housing projects were developed to meet increasing demand"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST2_COMPLETION21",
+      "type": "mcq",
+      "question": "One major issue urbanization causes is social inequality... (21) ___________.",
+      "choices": [
+        "Another issue is the decline in mental health but this has been significantly improved",
+        "A further challenge is the development of public transport systems and affordable housing",
+        "Furthermore, the reduced crime rate is creating better living conditions for community safety",
+        "Another concern is pollution, an issue that affects both urban dwellers and the environment"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "TEST2_COMPLETION22",
+      "type": "mcq",
+      "question": "Encouraging investment in infrastructure, (22) ___________.",
+      "choices": [
+        "which can drive economic growth and improve social well-being",
+        "the government is contributing to the deterioration of living",
+        "encouraging better living conditions for the growing population",
+        "they aim to create better living conditions for everyone"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST2_READING_PASSAGE1",
+      "type": "reading",
+      "passage": "Urban farming, or the practice of growing food within city limits, has gained popularity worldwide. As cities expand and populations grow, there is increasing pressure on food supplies, making urban farming an appealing solution. From rooftop gardens to community plots, urban farms can help produce fresh, local food in areas that are typically food deserts. Additionally, they provide green spaces in densely populated areas, contributing to environmental sustainability.\nUrban farming also has social benefits. It encourages community engagement and provides educational opportunities for residents. People can learn about sustainable agriculture, food production, and environmental conservation. Furthermore, urban farms can offer job opportunities, particularly in underprivileged neighborhoods, where employment options are often limited. By creating jobs and encouraging healthy eating, urban farms positively impact the health and well-being of local communities.\nHowever, urban farming is not without its challenges. One significant issue is space; cities are crowded, and land is scarce. Finding suitable plots for farming can be difficult and expensive. There are also regulatory hurdles, as some cities have strict zoning laws that limit agricultural activities. Additionally, urban soil can be contaminated with pollutants, making it unsuitable for food production. Despite these obstacles, innovative solutions, such as hydroponics and vertical farming, are making urban farming more feasible.\nIn the future, urban farming could play a vital role in food security. As climate change and urbanization continue, local food sources will become increasingly important. By reducing dependency on long supply chains, urban farming can ensure that cities remain resilient in the face of global challenges.",
       "questions": [
         {
-          "id": "TEST2-Q1",
-          "number": 1,
-          "type": "cloze",
-          "passage": "Discover the Future of Urban Living with Urban Edge Solutions\nAre you ready to reshape urban (1) ___________ and create better living spaces? At UrbanEdge Solutions, we specialize in designing sustainable urban environments for a brighter tomorrow.\nOur services include:\n1. (2) ___________ urban infrastructure to enhance connectivity and accessibility.\n2. Helping communities adapt (3) ___________ urban challenges by providing tailored solutions.\n3. Promoting eco-friendly practices to combat urban sprawl, ensuring a balance between growth and green spaces.\nOur team, dedicated to urban development, has extensive experience in addressing the needs of (4) ___________ cities.\n· Built on the principles of efficiency and sustainability, our projects reduce costs while increasing long-term value.\n· We also offer smart technologies (5) ___________ cities keep up with rapid urbanisation and thrive in the 21st century.\nJoin us in our mission to build a world-class (6) ___________ and transform cities into hubs of opportunity and innovation.\nContact us today! Let us help your city stand out from the crowd and make urban living a joy for all.",
-          "question": "Are you ready to reshape urban (1) ___________ and create better living spaces?",
-          "choices": ["views", "outlook", "sights", "landscapes"],
-          "answer": 3
-        },
-        {
-          "id": "TEST2-Q2",
-          "number": 2,
-          "question": "1. (2) ___________ urban infrastructure to enhance connectivity and accessibility.",
-          "choices": ["Improve", "Improving", "To improving", "Improved"],
-          "answer": 1
-        },
-        {
-          "id": "TEST2-Q3",
-          "number": 3,
-          "question": "2. Helping communities adapt (3) ___________ urban challenges by providing tailored solutions.",
-          "choices": ["with", "of", "to", "about"],
-          "answer": 2
-        },
-        {
-          "id": "TEST2-Q4",
-          "number": 4,
-          "question": "addressing the needs of (4) ___________ cities.",
-          "choices": ["grown", "growing", "growth", "grow"],
-          "answer": 1
-        },
-        {
-          "id": "TEST2-Q5",
-          "number": 5,
-          "question": "We also offer smart technologies (5) ___________ cities keep up with rapid urbanisation and thrive in the 21st century.",
-          "choices": ["helps", "helped", "which helped", "helping"],
-          "answer": 3
-        },
-        {
-          "id": "TEST2-Q6",
-          "number": 6,
-          "question": "build a world-class (6) ___________",
-          "choices": ["urban transport system", "transport urban system", "system urban transport", "system transport urban"],
-          "answer": 0
-        },
-        {
-          "id": "TEST2-Q7",
-          "number": 7,
-          "type": "cloze",
-          "passage": "A Growing Challenge\nUrbanisation is (7) ___________ our world. As a result of rapid growth, many cities are experiencing both opportunities and challenges. Some areas are thriving, while (8) ___________ face overcrowding and infrastructure shortages. As more people settle in cities, the demand for housing, transportation, and services has significantly increased.\nBig cities, now home to millions, are seeing costs (9) ___________, making life more expensive. Commuters often get stuck (10) ___________ traffic jams, causing frustration and lost productivity. Residents frequently make complaints about the lack of public transport and green spaces, urging authorities to improve planning and development.\nIf handled effectively, urbanisation can be translated into better living standards and economic growth. However, (11) ___________ poor management, it may worsen (12) ___________ and environmental issues. We must act now to create sustainable solutions and ensure that everyone benefits from urban development.\nJoin us in building smarter cities for the future!",
-          "question": "Urbanisation is (7) ___________ our world.",
-          "choices": ["pausing", "stabilizing", "expanding", "reshaping"],
-          "answer": 3
-        },
-        {
-          "id": "TEST2-Q8",
-          "number": 8,
-          "question": "Some areas are thriving, while (8) ___________ face overcrowding and infrastructure shortages.",
-          "choices": ["others", "the others", "anothers", "other"],
-          "answer": 0
-        },
-        {
-          "id": "TEST2-Q9",
-          "number": 9,
-          "question": "Big cities, now home to millions, are seeing costs (9) ___________, making life more expensive.",
-          "choices": ["take down", "result in", "go up", "stay strong"],
-          "answer": 2
-        },
-        {
-          "id": "TEST2-Q11",
-          "number": 11,
-          "question": "However, (11) ___________ poor management, it may worsen (12) ___________ and environmental issues.",
-          "choices": ["irrespective of", "in view of", "as long as", "even though"],
-          "answer": 3
-        },
-        {
-          "id": "TEST2-Q12",
-          "number": 12,
-          "question": "However, (11) ___________ poor management, it may worsen (12) ___________ and environmental issues.",
-          "choices": ["fairness", "suffering", "prosperity", "inequality"],
-          "answer": 3
-        },
-        {
-          "id": "TEST2-Q13",
-          "number": 13,
-          "type": "arrangement",
-          "question": "a. Alicia: Have you noticed more people working from home? The future of work in cities is changing.\nb. Alicia: True, but cities will need better infrastructure like co-working spaces and reliable internet for remote workers.\nc. Ben: Yes, with tech improving, hybrid work could reduce traffic and crowding in cities.\nMark the best arrangement:",
-          "choices": ["c-a-b", "c-b-a", "a-c-b", "a-c-b"],
-          "answer": 2
-        },
-        {
-          "id": "TEST2-Q14",
-          "number": 14,
-          "question": "a. Tom: I agree. Providing more affordable housing options alongside green spaces and good transport links would make a big difference.\nb. Tom: Maybe the government could offer subsidies for low-income families or create more mixed-use developments.\nc. Sarah: The rising cost of housing in the city is a real problem. How can we make it more affordable?\nd. Sarah: That could help, but we also need better planning to avoid overcrowding and ensure quality living conditions.\nMark the best arrangement:",
-          "choices": ["c-d-a-b", "c-b-d-a", "d-c-b-a", "d-b-c-a"],
-          "answer": 0
-        },
-        {
-          "id": "TEST2-Q15",
-          "number": 15,
-          "question": "Hi Jack,\na. Thank you for sending that article on city growth; it gave me a lot to consider.\nb. The demand for housing in urban areas is rising rapidly, and the prices are becoming unaffordable for many people.\nc. I’ve been thinking a lot about the impact of urbanisation on local economies.\nd. I think it would be a good idea to host an event in our community to discuss sustainable development. What are your thoughts on this?\ne. It’s encouraging to see the progress in urban development, but we still have many challenges to address.\nWrite back soon.\nBest,\nNam\nMark the best arrangement:",
-          "choices": ["a-e-c-b-d", "a-b-c-e-d", "a-e-b-c-d", "a-c-b-e-d"],
-          "answer": 3
-        },
-        {
-          "id": "TEST2-Q16",
-          "number": 16,
-          "question": "a. As cities expand, the demand for housing, jobs, and services increases, attracting individuals seeking improved living standards.\nb. However, the rapid growth of cities also brings challenges like overcrowding and resource depletion, requiring effective planning to ensure sustainable development.\nc. In addition to economic factors, many migrants are drawn to cities for better access to education, healthcare, and technology.\nd. This movement has resulted in increased cultural diversity in urban areas.\ne. The growth of cities has caused a significant shift in migration patterns, with more people moving from rural areas to urban centres in search of better opportunities.\nMark the best arrangement:",
-          "choices": ["e-c-d-b-a", "e-a-c-d-b", "e-a-b-c-d", "e-d-b-a-c"],
-          "answer": 1
-        },
-        {
-          "id": "TEST2-Q17",
-          "number": 17,
-          "question": "a. As cities grow, the implementation of smart technologies, such as traffic management systems, has made it easier for people to get around and avoid getting stuck in traffic jams, a problem that was once inevitable.\nb. In addition to enhancing urban mobility, these innovations have brought about a significant reduction in pollution, which would have otherwise resulted in worsened environmental conditions.\nc. In modern cities, technology plays an increasingly crucial role in improving the quality of life for residents.\nd. With these advancements, urban areas are not only becoming hubs of technological progress but also places that attract people from all over the world, eager to settle in and experience a higher standard of living.\ne. This shift towards more sustainable living is translated into cleaner air, better public health, and more efficient use of resources, making cities more livable.\nMark the best arrangement:",
-          "choices": ["c-e-a-b-d", "c-a-b-d-e", "c-a-b-e-d", "c-e-b-a-d"],
-          "answer": 2
-        },
-        {
-          "id": "TEST2-Q18",
-          "number": 18,
-          "type": "cloze",
-          "passage": "Urbanization and Its Impact\nUrbanization, the process of population moving from rural areas to cities, (18) ___________. Cities attract more and more residents every year, resulting in crowded streets, traffic jams, and a higher demand for housing facilities.\nThe city is getting more and more crowded. It creates challenges for residents, (19) ___________. Public transport still needs improvement in some areas. Residents who commute daily often get stuck in traffic jams during rush hours, wasting time and increasing emissions.\nUrbanization also brings positive changes. Modern facilities improve the quality of life for many people. I visited a neighborhood (20) ___________. Governments are working on solutions to improve urban living conditions, focusing on expanding public transport systems and developing affordable housing.\nOne major issue urbanization causes is social inequality, a problem which governments are trying to solve by improving access to education and healthcare. (21) ___________.\nEncouraging investment in infrastructure, (22) ___________. Urbanization, if managed properly, can bring more and more benefits to society.",
-          "question": "Urbanization, the process of population moving from rural areas to cities, (18) ___________.",
-          "choices": [
-            "on which people's lifestyles have changed significantly",
-            "are leading to significant shifts in people's lifestyles",
-            "resulting in significant changes in people's living habits",
-            "has significantly changed the way people live"
-          ],
-          "answer": 3
-        },
-        {
-          "id": "TEST2-Q19",
-          "number": 19,
-          "question": "It creates challenges for residents, (19) ___________.",
-          "choices": [
-            "rapidly increasing the number of housing units available for rent",
-            "making it difficult for them to find affordable places to live",
-            "which eventually causes people to struggle with high rent prices",
-            "many people are struggling to find affordable housing"
-          ],
-          "answer": 3
-        },
-        {
-          "id": "TEST2-Q20",
-          "number": 20,
-          "question": "I visited a neighborhood (20) ___________.",
-          "choices": [
-            "which had several high-rise buildings but lacked basic infrastructure",
-            "offering a mix of residential and commercial spaces with modern amenities",
-            "affected by severe flooding, storms that led to migration to the big city",
-            "where new housing projects were developed to meet increasing demand"
-          ],
-          "answer": 1
-        },
-        {
-          "id": "TEST2-Q21",
-          "number": 21,
-          "question": "One major issue urbanization causes is social inequality... (21) ___________.",
-          "choices": [
-            "Another issue is the decline in mental health but this has been significantly improved",
-            "A further challenge is the development of public transport systems and affordable housing",
-            "Furthermore, the reduced crime rate is creating better living conditions for community safety",
-            "Another concern is pollution, an issue that affects both urban dwellers and the environment"
-          ],
-          "answer": 3
-        },
-        {
-          "id": "TEST2-Q22",
-          "number": 22,
-          "question": "Encouraging investment in infrastructure, (22) ___________.",
-          "choices": [
-            "which can drive economic growth and improve social well-being",
-            "the government is contributing to the deterioration of living",
-            "encouraging better living conditions for the growing population",
-            "they aim to create better living conditions for everyone"
-          ],
-          "answer": 0
-        },
-        {
-          "id": "TEST2-Q23",
-          "number": 23,
-          "type": "reading",
-          "passage": "Urban farming, or the practice of growing food within city limits, has gained popularity worldwide. As cities expand and populations grow, there is increasing pressure on food supplies, making urban farming an appealing solution. From rooftop gardens to community plots, urban farms can help produce fresh, local food in areas that are typically food deserts. Additionally, they provide green spaces in densely populated areas, contributing to environmental sustainability.\nUrban farming also has social benefits. It encourages community engagement and provides educational opportunities for residents. People can learn about sustainable agriculture, food production, and environmental conservation. Furthermore, urban farms can offer job opportunities, particularly in underprivileged neighborhoods, where employment options are often limited. By creating jobs and encouraging healthy eating, urban farms positively impact the health and well-being of local communities.\nHowever, urban farming is not without its challenges. One significant issue is space; cities are crowded, and land is scarce. Finding suitable plots for farming can be difficult and expensive. There are also regulatory hurdles, as some cities have strict zoning laws that limit agricultural activities. Additionally, urban soil can be contaminated with pollutants, making it unsuitable for food production. Despite these obstacles, innovative solutions, such as hydroponics and vertical farming, are making urban farming more feasible.\nIn the future, urban farming could play a vital role in food security. As climate change and urbanization continue, local food sources will become increasingly important. By reducing dependency on long supply chains, urban farming can ensure that cities remain resilient in the face of global challenges.",
+          "id": "TEST2_READ_23",
           "question": "Which of the following is NOT a benefit of urban farming mentioned in the passage?",
-          "choices": ["Job creation", "Reduced greenhouse gas emissions", "Community engagement", "Increased access to fresh food"],
+          "choices": [
+            "Job creation",
+            "Reduced greenhouse gas emissions",
+            "Community engagement",
+            "Increased access to fresh food"
+          ],
           "answer": 1
         },
         {
-          "id": "TEST2-Q24",
-          "number": 24,
+          "id": "TEST2_READ_24",
           "question": "The word \"feasible\" in paragraph 3 is CLOSEST in meaning to ___________.",
-          "choices": ["affordable", "impossible", "achievable", "expensive"],
+          "choices": [
+            "affordable",
+            "impossible",
+            "achievable",
+            "expensive"
+          ],
           "answer": 2
         },
         {
-          "id": "TEST2-Q25",
-          "number": 25,
+          "id": "TEST2_READ_25",
           "question": "The word \"scarce\" in paragraph 3 is OPPOSITE in meaning to ___________.",
-          "choices": ["limited", "abundant", "necessary", "rare"],
+          "choices": [
+            "limited",
+            "abundant",
+            "necessary",
+            "rare"
+          ],
           "answer": 1
         },
         {
-          "id": "TEST2-Q26",
-          "number": 26,
+          "id": "TEST2_READ_26",
           "question": "The word \"They\" in paragraph 1 refers to ___________.",
-          "choices": ["urban farmers", "local food supplies", "urban farms", "cities"],
+          "choices": [
+            "urban farmers",
+            "local food supplies",
+            "urban farms",
+            "cities"
+          ],
           "answer": 2
         },
         {
-          "id": "TEST2-Q27",
-          "number": 27,
-          "question": "Which of the following best paraphrases the underlined sentence in paragraph 2? (The underlined is \"People can learn about sustainable agriculture, food production, and environmental conservation.\")",
+          "id": "TEST2_READ_27",
+          "question": "Which of the following best paraphrases the underlined sentence in paragraph 2? (Underlined: People can learn about sustainable agriculture, food production, and environmental conservation.)",
           "choices": [
             "People can learn valuable agricultural techniques.",
             "Urban farming leads to conservation efforts.",
@@ -588,8 +791,7 @@
           "answer": 0
         },
         {
-          "id": "TEST2-Q28",
-          "number": 28,
+          "id": "TEST2_READ_28",
           "question": "According to the passage, which of the following is TRUE?",
           "choices": [
             "Urban farms are only suitable for rural areas.",
@@ -600,59 +802,91 @@
           "answer": 2
         },
         {
-          "id": "TEST2-Q29",
-          "number": 29,
+          "id": "TEST2_READ_29",
           "question": "In which paragraph does the writer discuss social advantages of urban farming?",
-          "choices": ["Paragraph 1", "Paragraph 2", "Paragraph 3", "Paragraph 4"],
+          "choices": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3",
+            "Paragraph 4"
+          ],
           "answer": 1
         },
         {
-          "id": "TEST2-Q30",
-          "number": 30,
+          "id": "TEST2_READ_30",
           "question": "In which paragraph does the writer discuss the future role of urban farming?",
-          "choices": ["Paragraph 1", "Paragraph 2", "Paragraph 3", "Paragraph 4"],
+          "choices": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3",
+            "Paragraph 4"
+          ],
           "answer": 3
-        },
+        }
+      ]
+    },
+    {
+      "id": "TEST2_READING_PASSAGE2",
+      "type": "reading",
+      "passage": "Urbanisation is a phenomenon that has been occurring rapidly across the globe. As more people move from rural areas to cities in search of better job opportunities, education, and healthcare, the landscape of many countries is changing. While urbanisation brings numerous benefits, such as economic growth and improved infrastructure, it also presents significant challenges. [I]\nOne of the major advantages of urbanisation is the creation of more job opportunities. [II] Moreover, urban areas offer better educational and healthcare facilities, which help improve the quality of life for their residents. [III] In addition, cities often have better access to technology and innovation, enabling them to grow rapidly and attract investments.\nHowever, the rapid pace of urbanisation also leads to several problems. One of the biggest issues is overpopulation, which places a strain on infrastructure and resources. [IV] The increasing demand for housing results in the development of overcrowded areas, leading to a lack of space and poor living conditions for many people. Another consequence of urbanisation is the environmental impact, as cities expand and urban sprawl takes place. Deforestation, air pollution, and the depletion of natural resources are just a few of the negative effects.\nMoreover, the rise of urbanisation often results in social inequality. While some areas within a city flourish, others, especially slums and informal settlements, struggle with poverty and poor living standards. The other side of urban growth is that it can lead to a widening gap between the rich and the poor.\nIn conclusion, urbanisation brings both opportunities and challenges. While it can provide economic growth and improved living standards for many, it can also result in overcrowded cities, environmental damage, and social inequality. Other measures, such as the planning and development of sustainable cities, should be taken to ensure that the benefits of urbanisation are realised without compromising the well-being of citizens and the environment.",
+      "questions": [
         {
-          "id": "TEST2-Q31",
-          "number": 31,
-          "type": "reading",
-          "passage": "Urbanisation is a phenomenon that has been occurring rapidly across the globe. As more people move from rural areas to cities in search of better job opportunities, education, and healthcare, the landscape of many countries is changing. While urbanisation brings numerous benefits, such as economic growth and improved infrastructure, it also presents significant challenges. [I]\nOne of the major advantages of urbanisation is the creation of more job opportunities. [II] Moreover, urban areas offer better educational and healthcare facilities, which help improve the quality of life for their residents. [III] In addition, cities often have better access to technology and innovation, enabling them to grow rapidly and attract investments.\nHowever, the rapid pace of urbanisation also leads to several problems. One of the biggest issues is overpopulation, which places a strain on infrastructure and resources. [IV] The increasing demand for housing results in the development of overcrowded areas, leading to a lack of space and poor living conditions for many people. Another consequence of urbanisation is the environmental impact, as cities expand and urban sprawl takes place. Deforestation, air pollution, and the depletion of natural resources are just a few of the negative effects.\nMoreover, the rise of urbanisation often results in social inequality. While some areas within a city flourish, others, especially slums and informal settlements, struggle with poverty and poor living standards. The other side of urban growth is that it can lead to a widening gap between the rich and the poor.\nIn conclusion, urbanisation brings both opportunities and challenges. While it can provide economic growth and improved living standards for many, it can also result in overcrowded cities, environmental damage, and social inequality. Other measures, such as the planning and development of sustainable cities, should be taken to ensure that the benefits of urbanisation are realised without compromising the well-being of citizens and the environment.",
+          "id": "TEST2_READ_31",
           "question": "Where in the passage does the following sentence best fit? \"With the expansion of cities, businesses and industries thrive, leading to higher employment rates.\"",
-          "choices": ["[I]", "[II]", "[III]", "[IV]"],
+          "choices": [
+            "[I]",
+            "[II]",
+            "[III]",
+            "[IV]"
+          ],
           "answer": 1
         },
         {
-          "id": "TEST2-Q32",
-          "number": 32,
+          "id": "TEST2_READ_32",
           "question": "The word \"it\" in paragraph 1 refers to ___________.",
-          "choices": ["infrastructure", "phenomenon", "economic growth", "urbanization"],
+          "choices": [
+            "infrastructure",
+            "phenomenon",
+            "economic growth",
+            "urbanization"
+          ],
           "answer": 3
         },
         {
-          "id": "TEST2-Q33",
-          "number": 33,
+          "id": "TEST2_READ_33",
           "question": "The word \"innovation\" in paragraph 2 is opposite in meaning to ___________.",
-          "choices": ["breakthrough", "reversion", "revolution", "antiquity"],
+          "choices": [
+            "breakthrough",
+            "reversion",
+            "revolution",
+            "antiquity"
+          ],
           "answer": 3
         },
         {
-          "id": "TEST2-Q34",
-          "number": 34,
+          "id": "TEST2_READ_34",
           "question": "The phrase \"places a strain on\" in paragraph 3 mostly means ___________.",
-          "choices": ["puts pressure on", "caves under pressure", "takes the pressure off", "turns up the pressure"],
+          "choices": [
+            "puts pressure on",
+            "caves under pressure",
+            "takes the pressure off",
+            "turns up the pressure"
+          ],
           "answer": 0
         },
         {
-          "id": "TEST2-Q35",
-          "number": 35,
+          "id": "TEST2_READ_35",
           "question": "According to the passage, which of the following is NOT a benefit of urbanisation?",
-          "choices": ["Higher employment rates", "Improved access to technology", "Better healthcare and education facilities", "Revolutionize the quality of life"],
+          "choices": [
+            "Higher employment rates",
+            "Improved access to technology",
+            "Better healthcare and education facilities",
+            "Revolutionize the quality of life"
+          ],
           "answer": 3
         },
         {
-          "id": "TEST2-Q36",
-          "number": 36,
+          "id": "TEST2_READ_36",
           "question": "Which of the following best summarises paragraph 3?",
           "choices": [
             "Urbanisation brings economic growth and access to advanced technology but creates inequality.",
@@ -663,8 +897,7 @@
           "answer": 1
         },
         {
-          "id": "TEST2-Q37",
-          "number": 37,
+          "id": "TEST2_READ_37",
           "question": "Which of the following is TRUE according to the passage?",
           "choices": [
             "Urbanization only improves the facilities and quality of life for residents.",
@@ -675,8 +908,7 @@
           "answer": 3
         },
         {
-          "id": "TEST2-Q38",
-          "number": 38,
+          "id": "TEST2_READ_38",
           "question": "Which of the following best paraphrases the underlined part in paragraph 3?",
           "choices": [
             "Although urbanisation brings many benefits, it only improves the economy and does not affect society or the environment.",
@@ -687,8 +919,7 @@
           "answer": 3
         },
         {
-          "id": "TEST2-Q39",
-          "number": 39,
+          "id": "TEST2_READ_39",
           "question": "Which of the following can be inferred from the passage?",
           "choices": [
             "The wealth gap caused by urbanisation could increase crime rates.",
@@ -699,8 +930,7 @@
           "answer": 0
         },
         {
-          "id": "TEST2-Q40",
-          "number": 40,
+          "id": "TEST2_READ_40",
           "question": "Which of the following best summarises the passage?",
           "choices": [
             "The rise of urbanization brings economic growth and technological advancement without causing overcrowding, environmental degradation and social inequality.",
