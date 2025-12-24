@@ -191,16 +191,10 @@
       "passage": "For the past decades, the importance of various ecosystems has become widely understood. Therefore, humans have carried out various methods to protect the natural world, including making the switch to green energy sources.\nSolar energy is harnessed through solar panels and converted into usable electricity. This remarkably efficient energy source generates few harmful emissions, making it a potent tool in reducing our carbon footprint. Furthermore, solar panels are ideally suited for small-scale installations, such as residential homes, as they demand minimal maintenance costs and have a long lifespan. However, the effectiveness of solar power is determined by weather conditions, which makes it less practical in areas where sunny weather is infrequent.\nWind power involves the transformation of wind energy into electricity through the use of large turbines. Wind power produces little greenhouse gases, but it is less suitable for private use due to the consistent maintenance requirements of turbines. Nevertheless, wind farms can be deployed on a large scale and are capable of generating electricity continuously. As a result, there could be increased investments in wind power that could offer a stable energy supply to major cities.\nThe combined forces of wind and solar power play a substantial role in promoting an eco-friendly environment by reducing our reliance on fossil fuels, reducing pollution and slowing down the progression of climate change. Moreover, the utilisation of renewable energy sources stimulates investment in sustainable development by creating new career opportunities within the green energy sector.\nToday, the installation and infrastructure costs are the main obstacles to the transition to green energy. However, they offer undeniable benefits that far outweigh their drawbacks, which can help us ensure a more sustainable future.",
       "questions": [
         {
-          "id": "EN12_READ_Q23",
-          "question": "Question 23: Which of the following benefits is NOT mentioned as solar and wind energy?",
+          "id": "EN12_READ_Q24",
+          "question": "Question 24: Which of the following benefits is NOT mentioned as solar and wind energy?",
           "choices": ["Limit the production of harmful emissions", "Limit dependence on fossil fuels", "Limit investment in sustainable development", "Slow down the process of climate change"],
           "answer": 2
-        },
-        {
-          "id": "EN12_READ_Q24",
-          "question": "Question 24: Which of the following best paraphrases the sentence: \"However, the effectiveness of solar power is determined by weather conditions, which makes it less practical in areas where sunny weather is infrequent\"?",
-          "choices": ["Solar power is practical in regions with sunny weather all year round", "Solar energy is reliable regardless of weather conditions", "Solar panels are unsuitable for areas with consistent sunny weather", "Weather conditions limit the effectiveness of solar energy in some areas"],
-          "answer": 3
         },
         {
           "id": "EN12_READ_Q25",
